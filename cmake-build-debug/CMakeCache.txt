@@ -14,6 +14,12 @@
 # EXTERNAL cache entries
 ########################
 
+//The directory containing a CMake configuration file for <.
+<_DIR:PATH=<_DIR-NOTFOUND
+
+//The directory containing a CMake configuration file for <curl>.
+<curl>_DIR:PATH=<curl>_DIR-NOTFOUND
+
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar.exe
 
