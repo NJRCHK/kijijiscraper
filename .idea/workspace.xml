@@ -43,7 +43,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="kijijiscraper" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="spider" TARGET_NAME="kijijiscraper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="spider" RUN_TARGET_NAME="kijijiscraper">
+    <configuration name="kijijiscraper" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="kijijiscraper" TARGET_NAME="kijijiscraper" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="kijijiscraper" RUN_TARGET_NAME="kijijiscraper">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588791697741</updated>
-      <workItem from="1588791698911" duration="26000" />
+      <workItem from="1588791698911" duration="283000" />
     </task>
     <servers />
   </component>
