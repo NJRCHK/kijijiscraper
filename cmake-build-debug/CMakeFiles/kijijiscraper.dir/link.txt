@@ -1,1 +1,1 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/kijijiscraper.dir/spider.c.o  -o kijijiscraper.exe -Wl,--out-implib,libkijijiscraper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/kijijiscraper.dir/spider.c.o  -o kijijiscraper.exe -Wl,--out-implib,libkijijiscraper.dll.a -Wl,--major-image-version,0,--minor-image-version,0 M:/clibs/curl-7.70.0/lib/libcurl.dll.a 

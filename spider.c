@@ -1,5 +1,5 @@
 ﻿#include <stdio.h>
-#include <curl>
+#include <curl/curl.h>
 int main() {
     printf("Hello, World!");
     return 0;

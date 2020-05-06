@@ -6,5 +6,5 @@ C_FLAGS = -g   -std=gnu99
 
 C_DEFINES = 
 
-C_INCLUDES = -I/cygdrive/c/Users/Nathaniel/Desktop/kijijiscraper/curl 
+C_INCLUDES = -IM:/clibs/curl-7.70.0/include 
 

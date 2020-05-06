@@ -3,8 +3,10 @@ project(kijijiscraper C)
 
 set(CMAKE_C_STANDARD 99)
 
-include_directories(curl)
+set(libcurl_INCLUDE_DIR "M:/clibs/curl-7.70.0/include")
 
-add_executable(kijijiscraper spider.c
-        curl/curl.h
-        )
+include_directories(${libcurl_INCLUDE_DIR})
+add_executable(kijijiscraper spider.c)
+
+
+target_link_libraries(kijijiscraper M:/clibs/curl-7.70.0/lib/libcurl.dll.a)
