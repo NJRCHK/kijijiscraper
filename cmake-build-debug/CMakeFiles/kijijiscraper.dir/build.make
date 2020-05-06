@@ -79,7 +79,6 @@ kijijiscraper_EXTERNAL_OBJECTS =
 
 kijijiscraper.exe: CMakeFiles/kijijiscraper.dir/spider.c.o
 kijijiscraper.exe: CMakeFiles/kijijiscraper.dir/build.make
-kijijiscraper.exe: M:/clibs/curl-7.70.0/lib/libcurl.dll.a
 kijijiscraper.exe: CMakeFiles/kijijiscraper.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Nathaniel/Desktop/kijijiscraper/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable kijijiscraper.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/kijijiscraper.dir/link.txt --verbose=$(VERBOSE)
