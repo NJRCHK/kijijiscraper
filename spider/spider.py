@@ -7,8 +7,8 @@ for i in range(14570000, 20000000):
 	try:
 		url = "https://www.kijijiautos.ca/vip/" + str(i) + "/"
 		x = urllib.request.urlopen(url)
-		f = open("dump/" + str(i) + ".txt", "w")
-		f.write(str(x.read()))
+		with open("dump/" + str(i) + ".txt", "w") as file:
+			file.write(str(x.read()))
 		print("url read")
 	except HTTPError:
 		print("invalid url")
