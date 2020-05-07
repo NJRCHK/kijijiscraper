@@ -2,3 +2,4 @@ spider/dump/
 spider/lastread.txt
 
 parser/dumpfolder.txt
+parser/Parser.class

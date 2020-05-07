@@ -1,4 +1,4 @@
-public Class CarInfo{
+public class CarInfo{
 	private String make;
 	private String model; 
 	private int price;
@@ -15,11 +15,11 @@ public Class CarInfo{
 		condition = "N/A";
 		kilometres = 0;
 		transmission = "N/A";
-		driveTrain = "N/A"
-		fuelType = "N/A"
+		driveTrain = "N/A";
+		fuelType = "N/A";
 	}
 	
-	public string getMake(){
+	public String getMake(){
 		return make;
 	}
 	
@@ -27,7 +27,7 @@ public Class CarInfo{
 		this.make = make;
 	}
 	
-	public string getModel(){
+	public String getModel(){
 		return model;
 	}
 	
@@ -83,7 +83,7 @@ public Class CarInfo{
 		this.fuelType = fuelType;
 	}
 	
-	public toString(){
+	public String toString(){
 		String s = make + "," + model + "," + price + "," +
 		condition + "," + kilometres + "," + transmission +
 		"," +  driveTrain + "," + fuelType;
