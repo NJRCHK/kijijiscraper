@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/c/Users/Nathaniel/Desktop/kijijiscraper/spider.c" "/cygdrive/c/Users/Nathaniel/Desktop/kijijiscraper/cmake-build-debug/CMakeFiles/kijijiscraper.dir/spider.c.o"
+  "/cygdrive/c/kijijiscraper/spider.c" "/cygdrive/c/kijijiscraper/cmake-build-debug/CMakeFiles/kijijiscraper.dir/spider.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
