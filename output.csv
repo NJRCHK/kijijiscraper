@@ -1,1 +1,2 @@
-make,model,price,condition,kilometres,transmission,drivetrain,fueltype
+foreignId,make,model,year,price,condition,kilometres,transmission,drivetrain,fueltype
+1499607240,Ford,Escape,2014,$12,500,Used,137,500,Automatic,Front-wheel drive (FWD),Gas
