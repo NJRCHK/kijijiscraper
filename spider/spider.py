@@ -1,9 +1,14 @@
 import random
 import time
+import csv
 import urllib.request
 from urllib.request import HTTPError
 
-for i in range(14570000, 20000000):
+lastread = 0
+with open("lastread.txt","r") as file:
+	lastread = int(file.read())
+print(lastread)
+for i in range(lastread, 20000000):
 	try:
 		url = "https://www.kijijiautos.ca/vip/" + str(i) + "/"
 		x = urllib.request.urlopen(url)
@@ -14,3 +19,5 @@ for i in range(14570000, 20000000):
 		print("invalid url")
 	time.sleep(random.random()+1)
 	print("reading url " + str(i+1))
+	with open("lastread.txt","w") as file:
+		file.write(str(i))
