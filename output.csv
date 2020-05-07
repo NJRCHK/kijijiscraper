@@ -1,7 +1,13 @@
 foreignId,make,model,year,price,condition,kilometres,transmission,drivetrain,fueltype
-
-
-1499603890,Scion,xB,2012,$5,499,Used,191,637,Automatic,Front-wheel drive (FWD),Gas
+1499603890,Scion,xB,2012,$5499,Used,191,637,Automatic,Front-wheel drive (FWD),Gas
 1499603890,Scion,xB,2012,$5499,Used,191,637,Automatic,Front-wheel drive (FWD),Gas
 1499603909,Ford,F 150,2008,$6000,Used,237,000,N/A,N/A,N/A
 22296244,Mercedes-Benz,CLA,2018,$29495,Used,20,562,Automatic,All-wheel drive (AWD),Gas
+1499603909,Ford,F 150,2008,$6000,Used,237,000,N/A,N/A,N/A
+22296244,Mercedes-Benz,CLA,2018,$29495,Used,20,562,Automatic,All-wheel drive (AWD),Gas
+22296243,Mercedes-Benz,GLC,2017,$42579,Used,55,112,Automatic,All-wheel drive (AWD),Gas
+1499603967,Nissan,350Z,2003,$15000,Used,118,000,Manual,Rear-wheel drive (RWD),N/A
+1499604021,Mazda,3,2008,$1930,Used,195,000,Manual,Front-wheel drive (FWD),Gas
+1499604033,Ford,F 250,1966,$10000,Used,55,000,Manual,Four-wheel drive,Gas
+1499604045,Jeep,Liberty,2004,$1400,Used,125,031,Automatic,Four-wheel drive,Gas
+1499604059,BMW,X5,2006,$6500,Used,182,000,Automatic,All-wheel drive (AWD),Gas
