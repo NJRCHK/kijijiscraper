@@ -3,11 +3,11 @@ import random
 import os
 import time
 
-while True:
+def parse(f):
+	f = str(f)
 	try:
-		f = random.choice(os.listdir("C:/kijijiscraper/spider/dump"))
-		print("opening file: " + f)
-		with open("C:/kijijiscraper/spider/dump/" + f, 'r') as file:
+		time.sleep(0.5)
+		with open("C:/kijijiscraper/scraper/dump/" + f + ".txt", 'r') as file:
 			rawstring = file.read().replace('\n','')
 			
 		foreignId = re.findall(r'foreignId":"([^"]*)"', rawstring)
@@ -65,7 +65,7 @@ while True:
 		writeto = str(foreignId) + "," + str(make) + "," + str(model) + "," + str(year) + "," + str(price) + "," + str(cond) +"," +  str(kilo) + "," + str(tran) + "," + str(drive) + "," + str(fuel)
 		with open("C:/kijijiscraper/output.csv", 'a') as csv:
 			csv.write("\n" + writeto)
-		os.remove("C:/kijijiscraper/spider/dump/" + str(f))
+		os.remove("C:/kijijiscraper/scraper/dump/" + str(f) + ".txt")
 	except IndexError:
 		print("out of files! waiting 2 seconds...")
 		time.sleep(2)

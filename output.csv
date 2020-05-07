@@ -86,3 +86,6 @@ foreignId,make,model,year,price,condition,kilometres,transmission,drivetrain,fue
 1499607794,Chevrolet,Aveo,2005,$1,200,Damaged,160,000,Manual,Front-wheel drive (FWD),Gas
 1499607807,GMC,Sierra 1500,1993,$3,900,Used,250,000,Automatic,Four-wheel drive,Gas
 1499607880,Subaru,Impreza,2010,$4,500,Used,259,000,Automatic,N/A,Gas
+1499607631,Ford,Other,1954,$1,000,Used,120,000,Automatic,Rear-wheel drive (RWD),Gas
+1499607631,Ford,Other,1954,$1,000,Used,120,000,Automatic,Rear-wheel drive (RWD),Gas
+1499607634,Honda,Civic,2009,$4,888,Used,180,000,Manual,Front-wheel drive (FWD),Gas
