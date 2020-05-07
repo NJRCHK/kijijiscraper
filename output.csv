@@ -1,6 +1,7 @@
 foreignId,make,model,year,price,condition,kilometres,transmission,drivetrain,fueltype
 
-1499596580,GMC,Other,2006,N/A,Used,75,000,Automatic,Rear-wheel drive (RWD),Diesel
-1499596599,Chrysler,200,2013,$4,750,Used,158,000,Automatic,Front-wheel drive (FWD),Gas
-1499596626,Mercedes-Benz,SL,2009,$53,000,Used,72,000,Automatic,Rear-wheel drive (RWD),Gas
-1499596634,Honda,CR-V,2017,$25,500,Used,50,528,Automatic,All-wheel drive (AWD),Gas
+
+1499603890,Scion,xB,2012,$5,499,Used,191,637,Automatic,Front-wheel drive (FWD),Gas
+1499603890,Scion,xB,2012,$5499,Used,191,637,Automatic,Front-wheel drive (FWD),Gas
+1499603909,Ford,F 150,2008,$6000,Used,237,000,N/A,N/A,N/A
+22296244,Mercedes-Benz,CLA,2018,$29495,Used,20,562,Automatic,All-wheel drive (AWD),Gas
