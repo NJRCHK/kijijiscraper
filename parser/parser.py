@@ -1,24 +1,71 @@
 import re
 import random
 import os
+import time
 
-file = random.choice(os.listdir("C:/kijijiscraper/spider/dump"))
-print("opening file: " + file)
-with open("C:/Users/Nathaniel/Desktop/test/14570614.txt", 'r') as file:
-	rawstring = file.read().replace('\n','')
-	
-foreignId = re.findall(r'foreignId":"([^"]*)"', rawstring)
-make = re.findall(r',"make":"([^"]*)"', rawstring)
-model = re.findall(r',"model":"([^"]*)"',rawstring)
-year = re.findall(r',"year":"([^"]*)"',rawstring)
-price = re.findall(r',"localized":"([^"]*)"',rawstring)
-cond = re.findall(r',"key":"Condition","value":"([^"]*)"',rawstring)
-kilo = re.findall(r',"key":"Kilometres","value":"([^"]*)"',rawstring)
-kilo = kilo[0].partition('\\')
-tran = re.findall(r',"key":"Transmission","value":"([^"]*)"',rawstring)
-drive = re.findall(r',"key":"Drivetrain","value":"([^"]*)"',rawstring)
-fuel = re.findall(r',"key":"Fuel type","value":"([^"]*)"',rawstring)
-writeto = str(foreignId[0]) + "," + str(make[0]) + "," + str(model[0]) + "," + str(year[0]) + "," + str(price[0]) + "," + str(cond[0]) +"," +  str(kilo[0]) + "," + str(tran[0]) + "," + str(drive[0]) + "," + str(fuel[0])
+while True:
+	try:
+		f = random.choice(os.listdir("C:/kijijiscraper/spider/dump"))
+		print("opening file: " + f)
+		with open("C:/kijijiscraper/spider/dump/" + f, 'r') as file:
+			rawstring = file.read().replace('\n','')
+			
+		foreignId = re.findall(r'foreignId":"([^"]*)"', rawstring)
+		make = re.findall(r',"make":"([^"]*)"', rawstring)
+		model = re.findall(r',"model":"([^"]*)"',rawstring)
+		year = re.findall(r',"year":"([^"]*)"',rawstring)
+		price = re.findall(r',"localized":"([^"]*)"',rawstring)
+		cond = re.findall(r',"key":"Condition","value":"([^"]*)"',rawstring)
+		kilo = re.findall(r',"key":"Kilometres","value":"([^"]*)"',rawstring)
+		kilo = kilo[0].partition('\\')
+		tran = re.findall(r',"key":"Transmission","value":"([^"]*)"',rawstring)
+		drive = re.findall(r',"key":"Drivetrain","value":"([^"]*)"',rawstring)
+		fuel = re.findall(r',"key":"Fuel type","value":"([^"]*)"',rawstring)
 
-with open("C:/kijijiscraper/output.csv", 'a') as csv:
-	csv.write("\n" + writeto)
+		if len(foreignId) > 0:
+			foreignId = str(foreignId[0])
+		else:
+			foreignId = "N/A"
+		if len(make) > 0:
+			make = str(make[0])
+		else:
+			make = "N/A"
+		if len(model) > 0:
+			model = str(model[0])
+		else:
+			model = "N/A"
+		if len(year) > 0:
+			year = str(year[0])
+		else: 
+			year = "N/A"
+		if len(price) > 0:
+			price = str(price[0])
+		else:
+			price = "N/A"
+		if len(cond) > 0:
+			cond = str(cond[0])
+		else:
+			cond = "N/A"
+		if len(kilo) > 0:
+			kilo = kilo[0]
+		else:
+			kilo = "N/A"
+		if len(tran) > 0:
+			tran = str(tran[0])
+		else:
+			tran = "N/A"
+		if len(drive) > 0:
+			drive = str(drive[0])
+		else:
+			drive = "N/A"
+		if len(fuel) > 0:
+			fuel = str(fuel[0])
+		else:
+			fuel = "N/A"
+		writeto = str(foreignId) + "," + str(make) + "," + str(model) + "," + str(year) + "," + str(price) + "," + str(cond) +"," +  str(kilo) + "," + str(tran) + "," + str(drive) + "," + str(fuel)
+		with open("C:/kijijiscraper/output.csv", 'a') as csv:
+			csv.write("\n" + writeto)
+		os.remove("C:/kijijiscraper/spider/dump/" + str(f))
+	except IndexError:
+		print("out of files! waiting 2 seconds...")
+		time.sleep(2)
