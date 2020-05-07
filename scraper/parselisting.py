@@ -40,6 +40,7 @@ def parse(f):
 			year = "N/A"
 		if len(price) > 0:
 			price = str(price[0])
+			price.replace(',', '')
 		else:
 			price = "N/A"
 		if len(cond) > 0:
