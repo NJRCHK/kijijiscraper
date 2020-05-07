@@ -11,3 +11,11 @@ foreignId,make,model,year,price,condition,kilometres,transmission,drivetrain,fue
 1499604033,Ford,F 250,1966,$10000,Used,55,000,Manual,Four-wheel drive,Gas
 1499604045,Jeep,Liberty,2004,$1400,Used,125,031,Automatic,Four-wheel drive,Gas
 1499604059,BMW,X5,2006,$6500,Used,182,000,Automatic,All-wheel drive (AWD),Gas
+22337331,Kia,Rondo,2012,$5950,Used,122,619,Automatic,Other,Gas
+22337436,Nissan,Sentra,2013,$6950,Used,150,819,Automatic,Other,Gas
+22337413,Toyota,RAV 4,2007,$6485,Used,143,125,Automatic,Four-wheel drive,Gas
+22330006,Infiniti,G35,2004,$3480,Used,209,000,Automatic,Other,Gas
+22337450,Toyota,Yaris,2009,$3980,Used,180,000,Manual,Other,Gas
+22337408,Dodge,Caliber,2011,$3500,Used,104,000,Automatic,Front-wheel drive (FWD),Gas
+22337327,Hyundai,Veloster,2012,$5950,Used,189,610,Automatic,Other,Gas
+22337418,Dodge,Dart,2013,$5950,Used,147,746,Automatic,Other,Gas

@@ -49,6 +49,7 @@ def parse(f):
 			cond = "N/A"
 		if len(kilo) > 0:
 			kilo = kilo[0]
+			kilo = kilo.replace(',','')
 		else:
 			kilo = "N/A"
 		if len(tran) > 0:
