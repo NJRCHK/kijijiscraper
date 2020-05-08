@@ -1,0 +1,4 @@
+scraper/dump/
+scraper/__pycache__/
+scraper/lastread.txt
+scraper/output.csv
