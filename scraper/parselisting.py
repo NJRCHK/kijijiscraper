@@ -7,7 +7,7 @@ def parse(f):
 	f = str(f)
 	try:
 		time.sleep(0.5)
-		with open("dump/" + f + ".txt", 'r') as file:
+		with open(f + ".txt", 'r') as file:
 			rawstring = file.read().replace('\n','')
 			
 		foreignId = re.findall(r'foreignId":"([^"]*)"', rawstring)
@@ -67,7 +67,7 @@ def parse(f):
 		writeto = f + "," + str(foreignId) + "," + str(make) + "," + str(model) + "," + str(year) + "," + str(price) + "," + str(cond) +"," +  str(kilo) + "," + str(tran) + "," + str(drive) + "," + str(fuel)
 		with open("output.csv", 'a') as csv:
 			csv.write("\n" + writeto)
-		os.remove("dump/" + str(f) + ".txt")
+		os.remove(str(f) + ".txt")
 	except IndexError:
 		print("out of files! waiting 2 seconds...")
 		time.sleep(2)
