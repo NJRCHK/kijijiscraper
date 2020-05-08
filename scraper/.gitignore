@@ -1,0 +1,4 @@
+dump/
+__pycache__/
+lastread.txt
+output.csv
