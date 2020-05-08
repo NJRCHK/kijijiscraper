@@ -64,7 +64,7 @@ def parse(f):
 			fuel = str(fuel[0])
 		else:
 			fuel = "N/A"
-		writeto = str(foreignId) + "," + str(make) + "," + str(model) + "," + str(year) + "," + str(price) + "," + str(cond) +"," +  str(kilo) + "," + str(tran) + "," + str(drive) + "," + str(fuel)
+		writeto = f + "," + str(foreignId) + "," + str(make) + "," + str(model) + "," + str(year) + "," + str(price) + "," + str(cond) +"," +  str(kilo) + "," + str(tran) + "," + str(drive) + "," + str(fuel)
 		with open("output.csv", 'a') as csv:
 			csv.write("\n" + writeto)
 		os.remove("dump/" + str(f) + ".txt")
