@@ -1,0 +1,37 @@
+link,foreignId,make,model,year,price,condition,kilometres,transmission,drivetrain,fueltype
+14590184,1499852688,Nissan,Altima,2008,$4500,Used,210000,Automatic,Front-wheel drive (FWD),Gas
+14570000,1499596580,GMC,Other,2006,N/A,Used,75000,Automatic,Rear-wheel drive (RWD),Diesel
+14570001,1499596599,Chrysler,200,2013,$4750,Used,158000,Automatic,Front-wheel drive (FWD),Gas
+14570004,1499596626,Mercedes-Benz,SL,2009,$53000,Used,72000,Automatic,Rear-wheel drive (RWD),Gas
+14570006,1499596634,Honda,CR-V,2017,$25500,Used,50528,Automatic,All-wheel drive (AWD),Gas
+14570011,1499596694,Saturn,Astra,2008,$4400,Used,78000,Manual,Front-wheel drive (FWD),Gas
+14570012,1499596751,Nissan,Altima,2008,$3200,Used,200000,Automatic,N/A,N/A
+14570014,1499596781,Chrysler,Town & Country,2010,$5000,Used,165000,N/A,N/A,N/A
+14570019,1499596798,Dodge,Grand Caravan,2009,$2000,Used,277000,Automatic,Front-wheel drive (FWD),Gas
+14570021,1499596808,GMC,Sierra 1500,2016,$24200,Used,142250,Automatic,Four-wheel drive,Gas
+14570022,1499596814,Honda,Other,2012,$6000,Used,212000,Automatic,Front-wheel drive (FWD),Gas
+14570024,1499596821,Chrysler,200,2014,$6800,Used,134,Automatic,Front-wheel drive (FWD),Gas
+14570028,1499596886,Subaru,XV Crosstrek,2015,N/A,Used,186000,Automatic,All-wheel drive (AWD),Gas
+14570029,1499596917,Chevrolet,Equinox,2016,$13000,Used,123000,Automatic,All-wheel drive (AWD),Gas
+14570105,1499598317,Toyota,Tercel,1997,$400,Used,120000,Automatic,Front-wheel drive (FWD),Gas
+14570108,1499598341,GMC,C\\u002FK 1500,1997,$12000,Used,131000,Automatic,Four-wheel drive,Gas
+14570110,1499598406,Lexus,IS,2001,$3500,Used,370000,Automatic,Rear-wheel drive (RWD),Gas
+14570111,1499598409,GMC,Sierra 1500,2002,$1400,Used,210000,Automatic,Other,Gas
+14570112,1499598478,Chevrolet,Avalanche,2012,$7900,Used,194000,Automatic,Other,N/A
+14570113,1499598518,Chevrolet,Cruze,2012,$6999,Used,149000,Automatic,Front-wheel drive (FWD),Gas
+14570118,1499598619,Pontiac,G6,2007,$6999,Used,194000,Automatic,Front-wheel drive (FWD),Gas
+14570119,1499598638,Mercedes-Benz,CLA,2016,$22995,Used,49384,Automatic,All-wheel drive (AWD),Gas
+14570139,1499599110,Dodge,Charger,2016,$37000,Used,54000,Automatic,Rear-wheel drive (RWD),Gas
+14570140,1499599106,Volkswagen,Other,2006,$1200,Used,275000,Manual,Front-wheel drive (FWD),Diesel
+14570141,9836a129-da2e-470f-8de3-301e1e536fd1,Nissan,Frontier,2006,$9500,Used,138520,Automatic,Four-wheel drive,Gas
+14570142,1499599172,Mazda,Other,2010,$4199,Used,156000,Manual,Front-wheel drive (FWD),Gas
+14570144,22337462,Volkswagen,Jetta,2015,$8499,Used,96999,Automatic,Front-wheel drive (FWD),Gas
+14570148,1499599393,RAM,3500,2012,$39999,Used,136632,Automatic,N/A,Diesel
+14570149,1499599401,Hyundai,Elantra,2016,$11500,Used,100000,Automatic,Front-wheel drive (FWD),Gas
+14570202,1499600146,Chevrolet,Express,2009,$13500,Used,160000,N/A,N/A,N/A
+14570203,1499600157,Ford,Edge,2007,$4300,Used,197000,Automatic,N/A,Gas
+14570206,22337466,Chevrolet,Cruze,2018,$15999,Used,5261,Automatic,Front-wheel drive (FWD),Gas
+14570209,1499600259,Honda,CR-V,1997,$1000,Used,334000,Automatic,All-wheel drive (AWD),Gas
+14570212,1499600324,BMW,X3,2009,$7850,Used,184000,Automatic,All-wheel drive (AWD),Gas
+14570213,1499600360,Honda,Civic,2006,$2500,Used,256930,Manual,Front-wheel drive (FWD),Gas
+14570214,1499600371,Ford,F 250,2001,$3500,Used,529000,Automatic,Four-wheel drive,N/A
