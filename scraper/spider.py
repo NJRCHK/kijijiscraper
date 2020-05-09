@@ -5,7 +5,6 @@ import parselisting
 import urllib.request
 from urllib.request import HTTPError
 
-lastread = 0
 with open("lastread.txt","r") as file:
 	lastread = int(file.read())
 print(lastread)
