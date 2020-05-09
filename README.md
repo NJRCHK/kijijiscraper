@@ -1,2 +1,2 @@
 # kijijiscraper
- web scraper 
+Scrapes kijijiautos.ca for car listings
