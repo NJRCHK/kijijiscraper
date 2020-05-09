@@ -445,3 +445,8 @@ link,foreignId,make,model,year,price,condition,kilometres,transmission,drivetrai
 14575206,1499673770,Toyota,Prius V,2012,$6500,Used,550000,Automatic,Front-wheel drive (FWD),Electric
 14575207,1499673778,Mercedes-Benz,E-Class,2008,$26500,Used,87500,Automatic,Rear-wheel drive (RWD),N/A
 14575209,1499673842,Dodge,Caravan,2003,$1500,Used,360000,Automatic,N/A,Gas
+14575246,1499674307,Dodge,Journey,2010,$3999,Used,162000,Automatic,Front-wheel drive (FWD),N/A
+14575246,1499674307,Dodge,Journey,2010,$3999,Used,162000,Automatic,Front-wheel drive (FWD),N/A
+14575247,1499674309,Toyota,Highlander,2006,$4799,Used,256156,Automatic,Four-wheel drive,Gas
+14575278,1499674672,Ford,F 150,2010,$9500,Used,285,Automatic,Four-wheel drive,Gas
+14575279,1499674669,Hyundai,Elantra,2013,$9000,Used,91310,Automatic,Front-wheel drive (FWD),Gas
