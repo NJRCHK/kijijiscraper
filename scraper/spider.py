@@ -13,10 +13,8 @@ def spider():
 		try:
 			url = "https://www.kijijiautos.ca/vip/" + str(i) + "/"
 			x = urllib.request.urlopen(url)
-			with open(str(i) + ".txt", "w") as file:
-				file.write(str(x.read()))
 			print("url read... parsing")
-			parse(i)
+			parse(i,str(x.read()))
 		except HTTPError:
 			print("invalid url")
 		time.sleep(random.random()+1)
@@ -24,12 +22,7 @@ def spider():
 		with open("lastread.txt","w") as file:
 			file.write(str(i))
 
-def parse(f):
-	f = str(f)
-	time.sleep(0.5)
-	with open(f + ".txt", 'r') as file:
-		rawstring = file.read().replace('\n','')
-			
+def parse(urlname, rawstring):		
 	foreignId = re.findall(r'foreignId":"([^"]*)"', rawstring)
 	make = re.findall(r',"make":"([^"]*)"', rawstring)
 	model = re.findall(r',"model":"([^"]*)"',rawstring)
@@ -84,10 +77,9 @@ def parse(f):
 		fuel = str(fuel[0])
 	else:
 		fuel = "N/A"
-	writeto = f + "," + str(foreignId) + "," + str(make) + "," + str(model) + "," + str(year) + "," + str(price) + "," + str(cond) +"," +  str(kilo) + "," + str(tran) + "," + str(drive) + "," + str(fuel)
+	writeto = str(urlname) + "," + str(foreignId) + "," + str(make) + "," + str(model) + "," + str(year) + "," + str(price) + "," + str(cond) +"," +  str(kilo) + "," + str(tran) + "," + str(drive) + "," + str(fuel)
 	with open("output.csv", 'a') as csv:
 		csv.write("\n" + writeto)
-	os.remove(str(f) + ".txt")
 	print("parsing complete")
 	
 def main():
