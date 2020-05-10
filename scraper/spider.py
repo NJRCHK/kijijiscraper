@@ -9,7 +9,6 @@ from urllib.request import HTTPError
 def spider():
 	with open("lastread.txt","r") as file:
 		lastread = int(file.read())
-	print(lastread)
 	for i in range(lastread, 20000000):
 		try:
 			url = "https://www.kijijiautos.ca/vip/" + str(i) + "/"
