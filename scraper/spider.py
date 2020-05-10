@@ -3,7 +3,6 @@ import time
 import csv
 import urllib.request
 import re
-import os
 from urllib.request import HTTPError
 
 def spider():
