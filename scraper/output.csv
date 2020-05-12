@@ -1238,3 +1238,859 @@ link,foreignId,make,model,year,price,condition,kilometres,transmission,drivetrai
 14588197,22346905,Toyota,Yaris,2016,$13990,Used,32347,Automatic,Front-wheel drive (FWD),Gas
 14588198,22346816,Subaru,Forester,2015,$16995,Used,43000,Automatic,All-wheel drive (AWD),Gas
 14588199,22346861,Toyota,Corolla,2014,$10495,Used,117261,Automatic,Front-wheel drive (FWD),Gas
+14588208,22347633,Kia,Sportage,2012,$12495,Used,91000,Automatic,All-wheel drive (AWD),Gas
+14588209,22348182,Lincoln,MKZ,2013,$16588,Used,67250,Automatic,Other,Gas
+14588210,22348135,Kia,Forte,2017,$15400,Used,10900,Automatic,Front-wheel drive (FWD),Gas
+14588211,22347405,Mazda,CX-5,2018,$24955,Used,39539,Automatic,All-wheel drive (AWD),Gas
+14588212,22347623,Nissan,Murano,2018,$27991,Used,48000,Automatic,All-wheel drive (AWD),Gas
+14588213,22346946,Mazda,CX-5,2016,$19995,Used,61596,Automatic,Other,Gas
+14588214,22347625,Nissan,Sentra,2019,$17995,Used,9500,Automatic,Front-wheel drive (FWD),Gas
+14588215,22346942,Mazda,3,2014,$12825,Used,57320,Automatic,Other,Gas
+14588216,22347619,Ford,Explorer,2014,$18695,Used,129054,Automatic,All-wheel drive (AWD),Gas
+14588217,22346908,Ford,Fusion,2018,$20495,Certified Pre-Owned,3598,Automatic,Front-wheel drive (FWD),Gas
+14588218,22348183,Ford,Escape,2005,$4998,Used,74595,Automatic,Other,Gas
+14588219,22348180,Ford,F 150,2018,N/A,Used,56885,Automatic,Other,Gas
+14588220,22347033,Toyota,4-Runner,2018,$38999,Used,63200,Automatic,Four-wheel drive,Gas
+14588221,22346907,Ford,Fiesta,2018,$22995,Certified Pre-Owned,10452,Manual,Front-wheel drive (FWD),Gas
+14588222,22347062,Honda,Civic,2017,$14450,Certified Pre-Owned,95915,Automatic,Front-wheel drive (FWD),Gas
+14588320,22347068,Chevrolet,Equinox,2015,$15588,Used,17478,Automatic,Front-wheel drive (FWD),Gas
+14588321,22347337,Subaru,Impreza,2011,$6588,Used,170625,Automatic,All-wheel drive (AWD),Gas
+14588323,22347058,Honda,Pilot,2017,$30495,Used,89319,Automatic,All-wheel drive (AWD),Gas
+14588325,22347622,Suzuki,SX4,2010,$4995,Used,86475,Automatic,Front-wheel drive (FWD),Gas
+14588326,22347680,Lexus,IS,2015,$24495,Used,93157,Automatic,All-wheel drive (AWD),Gas
+14588327,22347643,Hyundai,Santa Fe,2017,$22998,Used,46516,Automatic,All-wheel drive (AWD),Gas
+14588328,1499838667,Maserati,Granturismo,2009,$1,Damaged,105000,Automatic,Rear-wheel drive (RWD),N/A
+14588329,22347608,Mercedes-Benz,C-Class,2014,$19990,Used,80417,Automatic,All-wheel drive (AWD),Gas
+14588330,22347614,Subaru,BRZ,2014,$13990,Used,69383,Automatic,Rear-wheel drive (RWD),Gas
+14588331,22346853,Honda,Civic,2016,$12494,Used,111565,Manual,Front-wheel drive (FWD),Gas
+14588333,22347616,Jeep,Cherokee,2016,$20588,Used,42202,Automatic,Four-wheel drive,Gas
+14588432,22347499,Nissan,Other,2018,$50054,New,5,Automatic,Other,Gas
+14588433,22347498,Nissan,Altima,2019,$27998,New,5,Automatic,Other,Gas
+14588434,22347509,Volvo,XC60,2014,$19900,Used,114941,Automatic,Other,Gas
+14588435,22347524,Mazda,CX-9,2020,$49750,New,10,Automatic,All-wheel drive (AWD),Gas
+14588436,22347502,GMC,Acadia,2012,$58240,Used,1016765,Automatic,All-wheel drive (AWD),Gas
+14588437,22347522,Mazda,3,2020,$22350,New,10,Automatic,Other,Gas
+14588438,22347532,Chevrolet,Cruze,2013,$7900,Used,105774,Automatic,Front-wheel drive (FWD),Gas
+14588440,22347527,Nissan,Pathfinder,2020,$47713,New,223,Automatic,Four-wheel drive,Gas
+14588441,22347495,Nissan,Other,2019,$23213,New,1,Automatic,Other,Gas
+14588443,22347500,Toyota,Highlander,2009,$12900,Used,189001,Automatic,Four-wheel drive,Gas
+14588444,22347540,Nissan,Altima,2017,$37548,New,9450,Automatic,Front-wheel drive (FWD),Gas
+14588445,22347055,GMC,Sierra 3500,2020,$90863,New,0,Automatic,Four-wheel drive,Gas
+14588544,22347859,BMW,Other,2003,$500,Used,999999,Manual,Other,Gas
+14588545,22347866,Hyundai,Elantra,2015,$500,Used,999999,Manual,Other,Gas
+14588546,22347848,Toyota,Prius,2008,$500,Used,999999,Manual,Other,Gas
+14588547,22347695,Ford,Escape,2013,$11444,Used,156774,Automatic,All-wheel drive (AWD),Gas
+14588548,22347874,Kia,Forte,2013,$3000,Used,138970,Automatic,Other,Gas
+14588549,22347694,Chrysler,200,2014,$8444,Used,152443,Automatic,Front-wheel drive (FWD),Gas
+14588550,22347875,GMC,Sierra,2007,$1000,Used,351914,Automatic,Other,Gas
+14588551,22347873,Jeep,Cherokee,2016,$6500,Used,188843,Automatic,Other,Gas
+14588552,22348068,Dodge,Grand Caravan,2018,$22999,Used,49514,Automatic,Front-wheel drive (FWD),Gas
+14588553,22348073,Jeep,Grand Cherokee,2020,$46745,Used,10229,Automatic,Four-wheel drive,Gas
+14588554,22348069,Volkswagen,Tiguan,2018,$39175,Used,17016,Automatic,All-wheel drive (AWD),Gas
+14588555,22347837,Volkswagen,Beetle,2016,$500,Used,999999,Manual,Other,Gas
+14588557,22348198,Audi,Q7,2019,$58888,Used,20346,Automatic,All-wheel drive (AWD),Gas
+14588558,22348197,Buick,Encore,2014,$13886,Used,0,Automatic,Front-wheel drive (FWD),Gas
+14588654,22349033,Hyundai,VENUE,2020,N/A,New,28,Automatic,Front-wheel drive (FWD),Gas
+14588655,22349036,Dodge,Grand Caravan,2019,N/A,New,89,Automatic,Front-wheel drive (FWD),Gas
+14588656,22349041,Volkswagen,Golf,2019,N/A,New,15,Automatic,Front-wheel drive (FWD),Gas
+14588657,22349039,Volkswagen,Golf,2019,N/A,New,6,Automatic,All-wheel drive (AWD),Gas
+14588658,22349099,Mitsubishi,RVR,2019,$22910,Used,33751,Automatic,Four-wheel drive,Gas
+14588659,22349035,RAM,1500,2020,$59843,New,15,Automatic,Four-wheel drive,Gas
+14588660,22349037,Volkswagen,Golf,2019,N/A,New,5,Automatic,All-wheel drive (AWD),Gas
+14588661,22349077,GMC,Sierra 2500,2020,$97578,New,36,Automatic,Four-wheel drive,Diesel
+14588662,22349038,Volkswagen,Golf,2019,N/A,New,5,Automatic,All-wheel drive (AWD),Gas
+14588663,22349081,GMC,Sierra,2020,$48078,New,6,Automatic,Four-wheel drive,Gas
+14588664,22349098,Pontiac,Other,2004,$4910,Used,126327,Automatic,Front-wheel drive (FWD),Gas
+14588666,22349079,GMC,Sierra 1500,2020,$37293,New,1,Automatic,Four-wheel drive,Gas
+14588667,22349065,Chevrolet,Equinox,2020,$45283,New,238,Automatic,All-wheel drive (AWD),Gas
+14588668,22349050,Jeep,Cherokee,2017,$22888,Used,17071,Automatic,Four-wheel drive,Gas
+14588763,22349277,Kia,Optima,2018,$14495,Used,53057,Automatic,Front-wheel drive (FWD),Gas
+14588764,22346152,Mercedes-Benz,Other,1991,$10999,Used,72000,Automatic,Other,Gas
+14588765,22346500,Honda,Fit,2015,$11995,Used,44509,Automatic,Front-wheel drive (FWD),Gas
+14588766,22349278,Kia,Optima,2018,$14495,Used,53057,Automatic,Front-wheel drive (FWD),Gas
+14588767,22349263,GMC,Sierra 2500,2015,$35998,Used,95702,Automatic,Four-wheel drive,Gas
+14588768,22346303,Nissan,Versa,2009,$4995,Used,80836,Automatic,Other,Other
+14588769,22346305,Dodge,Durango,2014,$16998,Used,344150,Automatic,All-wheel drive (AWD),Gas
+14588770,22349264,Ford,Transit,2016,$16998,Used,228216,Automatic,Rear-wheel drive (RWD),Gas
+14588772,22349310,Audi,A4,2018,$33995,Used,13903,Automatic,All-wheel drive (AWD),Gas
+14588871,22349311,Nissan,Juke,2013,$11888,Used,63958,Automatic,All-wheel drive (AWD),Gas
+14588873,22348558,Jeep,Wrangler,2014,$18980,Used,122912,Automatic,Four-wheel drive,Gas
+14588875,22348450,Chevrolet,Silverado 1500,2017,$30890,Used,73214,Automatic,Four-wheel drive,Gas
+14588876,22348582,Mercedes-Benz,GLK,2015,$21888,Used,115000,Automatic,All-wheel drive (AWD),Diesel
+14588877,22348510,GMC,Acadia,2014,$15890,Used,100096,Automatic,Front-wheel drive (FWD),Gas
+14588878,22348445,Chevrolet,Avalanche,2006,$5495,Used,186000,Automatic,Four-wheel drive,Gas
+14588879,22348587,Kia,Sportage,2019,$22980,Used,44397,Automatic,All-wheel drive (AWD),Gas
+14588880,22348469,Fiat,500C,2014,$3695,Used,130000,Manual,Front-wheel drive (FWD),Gas
+14588881,22348419,Ford,F 100,2009,$7495,Used,183000,Automatic,Four-wheel drive,Gas
+14588882,22348436,Chevrolet,Silverado 1500,2018,$35980,Used,51535,Automatic,Four-wheel drive,Gas
+14588883,22348539,Chevrolet,Silverado 1500,2011,$14900,Used,152000,Automatic,Four-wheel drive,Gas
+14588884,22348569,Honda,Civic,2015,$9995,Used,86420,Automatic,Front-wheel drive (FWD),Gas
+14588885,22348478,Nissan,Murano,2011,$9980,Used,143235,Automatic,All-wheel drive (AWD),Gas
+14588983,1499841199,Chevrolet,C\\u002FK 1500,1984,$5500,Used,99999,N/A,N/A,N/A
+14588984,1499841206,Chevrolet,Camaro,2010,$23900,Used,75000,Manual,Rear-wheel drive (RWD),Gas
+14588988,1499841267,Chrysler,Sebring,2004,$1,Used,245000,Automatic,Front-wheel drive (FWD),Gas
+14588990,1499841288,Chevrolet,Venture,2004,$3750,Used,140000,Automatic,N/A,N/A
+14588992,1499841294,Jeep,TJ,2005,$7800,Used,198000,Manual,Four-wheel drive,N/A
+14588993,1499841314,Mazda,3,2010,$2600,Used,260,Manual,Front-wheel drive (FWD),N/A
+14588994,1499841326,Nissan,Altima,2012,$6850,Used,139500,Automatic,Front-wheel drive (FWD),Gas
+14589088,1499842410,Dodge,Ram 2500,1993,$3000,Used,393931,Automatic,Four-wheel drive,Diesel
+14589093,1499842463,GMC,Sierra 2500,2007,$18500,Used,250000,Automatic,All-wheel drive (AWD),Diesel
+14589205,1499843891,Ford,F 150,2017,$27000,Used,70000,Automatic,Four-wheel drive,Gas
+14589206,1499843898,Mazda,3,2018,$21000,Used,27000,Automatic,Front-wheel drive (FWD),Gas
+14589214,1499844011,Nissan,Rogue,2009,$3900,Used,202000,Automatic,Front-wheel drive (FWD),N/A
+14589310,1499845077,Chevrolet,Silverado 2500,2007,$15000,Used,506000,Automatic,Four-wheel drive,Diesel
+14589313,1499845116,Ford,Explorer,2016,$23000,Used,47900,Automatic,Four-wheel drive,Gas
+14589315,1499845144,Toyota,Corolla,1989,$2500,Used,82000,Automatic,Front-wheel drive (FWD),Gas
+14589316,1499845163,Kia,Sportage,2009,$4800,Used,126000,Manual,Front-wheel drive (FWD),Gas
+14589317,22349364,Pontiac,Montana,2007,$3250,Used,157000,Automatic,Other,Gas
+14589320,1499845202,Honda,CR-V,2010,N/A,Used,167000,Automatic,All-wheel drive (AWD),N/A
+14589419,1499846301,Hyundai,Elantra,2012,$5500,Used,169000,Automatic,Front-wheel drive (FWD),Gas
+14589422,c28c18be-7cce-4543-992a-4a9231d39a98,Ford,Fusion,2006,$1900,Used,280000,Manual,Front-wheel drive (FWD),Gas
+14589424,1499846331,Honda,CR-V,2003,$1800,Used,250000,Automatic,All-wheel drive (AWD),Gas
+14589426,1499846352,Mercedes-Benz,S-Class,1995,$5800,Used,139000,Automatic,Rear-wheel drive (RWD),Gas
+14589429,1499846354,Subaru,Impreza,2008,$5500,Used,196000,Manual,All-wheel drive (AWD),N/A
+14589527,1499847426,Hyundai,Santa Fe,2009,$7995,Used,118000,Automatic,All-wheel drive (AWD),N/A
+14589528,1499847452,Ford,F 250,2008,$8000,Used,182436,Automatic,N/A,Diesel
+14589529,1499847466,Nissan,Versa,2009,$3500,Used,213412,Automatic,Front-wheel drive (FWD),Gas
+14589530,1499847469,Chevrolet,Camaro,2013,$24500,Used,58000,Automatic,Rear-wheel drive (RWD),Gas
+14589531,1499847485,Hyundai,Santa Fe,2012,$6000,Used,135000,Automatic,Front-wheel drive (FWD),Gas
+14589537,1499847603,Honda,Odyssey,2008,$7000,Used,269500,Automatic,Front-wheel drive (FWD),Gas
+14589539,1499847612,Jeep,Grand Cherokee,2002,$600,Used,230000,N/A,Four-wheel drive,N/A
+14589541,1499847645,Pontiac,G6,2007,$6250,Used,85000,Automatic,Front-wheel drive (FWD),Gas
+14589642,1499848602,Mercedes-Benz,CLK,2004,$6000,Used,220000,Automatic,Rear-wheel drive (RWD),Gas
+14589643,1499848614,Toyota,RAV 4,2015,$18800,Used,94000,Automatic,All-wheel drive (AWD),Gas
+14589651,1499848678,Acura,TL,2006,$4000,Used,202181,Automatic,N/A,Gas
+14589747,1499849476,Nissan,NV200,2015,$13400,Used,108000,Automatic,N/A,Gas
+14589753,1499849499,Chevrolet,Silverado 1500,2010,$15500,Used,165000,Automatic,Four-wheel drive,Gas
+14589754,1499849502,Dodge,Charger,1968,$82500,Used,66000,Automatic,N/A,N/A
+14589760,1499849515,GMC,Sierra 1500,2009,$15000,Used,129000,Automatic,N/A,Gas
+14589855,22337470,RAM,2500,2017,N/A,Used,93648,Automatic,Four-wheel drive,Other
+14589856,22349347,Land Rover,Range Rover Evoque,2016,$27990,Used,54897,Automatic,Four-wheel drive,Gas
+14589857,22258119,Cadillac,XT5,2019,$42900,Used,8758,Automatic,All-wheel drive (AWD),Gas
+14589858,22306612,Audi,TTS,2016,$41900,Used,46725,Automatic,All-wheel drive (AWD),Gas
+14589859,22306611,Audi,SQ5,2016,$38900,Used,65803,Automatic,All-wheel drive (AWD),Gas
+14589860,22349422,Chevrolet,Traverse,2013,$16995,Used,98741,Automatic,All-wheel drive (AWD),Gas
+14589861,22349409,Hyundai,Santa Fe,2012,$13999,Used,85600,Automatic,All-wheel drive (AWD),Gas
+14589862,22349424,Ford,F 150,2017,$19995,Used,156982,Automatic,Four-wheel drive,Gas
+14589863,22349410,Honda,Odyssey,2008,$10699,Used,160000,Automatic,Front-wheel drive (FWD),Gas
+14589864,22349423,Ford,F 150,2018,$33995,Used,56249,Automatic,Four-wheel drive,Gas
+14589865,22234647,Cadillac,XT5,2019,$42900,Used,14199,Automatic,All-wheel drive (AWD),Gas
+14589866,22349411,Hyundai,Elantra,2018,$15999,Used,54200,Automatic,Front-wheel drive (FWD),Gas
+14589867,1499850286,Suzuki,SX4,2013,$5900,Used,95915,Automatic,All-wheel drive (AWD),Gas
+14589868,22349414,Hyundai,Santa Fe,2018,$23498,Used,59257,Automatic,All-wheel drive (AWD),Gas
+14589869,22349416,Toyota,RAV 4,2015,$18900,Used,101437,Automatic,All-wheel drive (AWD),Gas
+14589968,1499850955,Chevrolet,Malibu,2018,$15000,Used,37162,Automatic,Front-wheel drive (FWD),Gas
+14589969,1499850970,Nissan,Maxima,1989,$4000,Used,180000,Automatic,Front-wheel drive (FWD),Gas
+14589971,1499850985,Ford,F 250,2002,$8500,Used,351000,Automatic,Four-wheel drive,Diesel
+14589973,1499850989,Dodge,Magnum,2006,N/A,Used,123456,N/A,N/A,N/A
+14589976,1499851014,BMW,3 Series,2014,$20000,Used,66000,Automatic,All-wheel drive (AWD),Gas
+14589977,1499851025,RAM,1500,2009,$7500,Used,343504,Automatic,Four-wheel drive,N/A
+14590075,1499851743,Chevrolet,Silverado 2500,2008,N/A,Used,500000,Automatic,Four-wheel drive,Diesel
+14590076,1499851754,Infiniti,QX4,2002,$5500,Used,152000,Automatic,Four-wheel drive,Gas
+14590082,1499851796,Hyundai,Veracruz,2010,$5000,Used,174000,N/A,N/A,N/A
+14590088,1499851841,Dodge,Caravan,2015,$8000,Used,180000,Automatic,Front-wheel drive (FWD),Gas
+14590188,1499852708,Kia,Sportage,2015,$9800,Used,113000,Manual,N/A,Gas
+14590197,1499852752,Dodge,Ram 1500,2013,$15500,Used,210000,Automatic,N/A,Gas
+14590198,1499852786,RAM,2500,2008,$14000,Used,321000,Automatic,Four-wheel drive,Diesel
+14590199,1499852815,RAM,1500,2010,$6500,Used,340000,N/A,N/A,N/A
+14590304,1499853644,Ford,Ranger,2000,$1500,Used,198000,Automatic,Rear-wheel drive (RWD),Gas
+14590306,22350021,Kia,Rio,2013,$5995,Used,162206,Automatic,Other,Gas
+14590309,22350127,Kia,Optima,2012,$5395,Used,217768,Automatic,Front-wheel drive (FWD),Gas
+14590310,1499853691,Ford,Fusion,2010,$3800,Used,196100,Automatic,Front-wheel drive (FWD),Gas
+14590419,1499854387,Ford,Focus,2002,$800,Damaged,154000,Manual,Front-wheel drive (FWD),N/A
+14590420,1499854388,Toyota,Corolla,2018,$14900,Used,63000,Automatic,Front-wheel drive (FWD),Gas
+14590424,1499854436,Chevrolet,Traverse,2010,$5500,Used,220592,Automatic,All-wheel drive (AWD),Gas
+14590522,1499855194,Hyundai,Accent,2011,$4000,Used,86,Automatic,Rear-wheel drive (RWD),Gas
+14590528,1499855231,Hyundai,Sonata,2012,$5700,Used,166000,Automatic,All-wheel drive (AWD),Gas
+14590530,1499855259,Saturn,ION,2007,$3000,Used,146000,N/A,Front-wheel drive (FWD),N/A
+14590531,1499855282,Scion,FR-S,2015,$17000,Used,59000,Automatic,Rear-wheel drive (RWD),Gas
+14590532,1499855290,Toyota,RAV 4,2017,$27000,Used,60000,Automatic,Other,Gas
+14590534,1499855306,Subaru,Impreza WRX STi,2008,$18250,Used,139500,Manual,All-wheel drive (AWD),Gas
+14590634,1499855917,BMW,3 Series,2009,$8700,Used,165000,Automatic,All-wheel drive (AWD),Gas
+14590753,1499856499,Ford,Other,1935,N/A,Used,1234,N/A,N/A,N/A
+14590755,1499856505,Ford,F 250,1971,$6000,Used,115000,Manual,Rear-wheel drive (RWD),Gas
+14590759,21480021,Ford,Mustang,2019,$29990,Used,6200,Automatic,Rear-wheel drive (RWD),Gas
+14590762,22259314,Isuzu,Other,2017,$39824,Used,47303,Automatic,Rear-wheel drive (RWD),Gas
+14590859,1499857201,Chevrolet,Corvette,2002,$21000,Used,95000,Manual,Rear-wheel drive (RWD),Gas
+14590861,1499857208,Ford,Mustang,2018,N/A,Used,25500,Automatic,Rear-wheel drive (RWD),Gas
+14590862,1499857209,RAM,1500,2014,$22000,Used,115000,Automatic,Four-wheel drive,Gas
+14590867,1499857241,Scion,iQ,2014,$10000,Used,51204,Automatic,Other,Gas
+14590967,1499857664,Audi,TT,2003,$11000,Used,112500,Manual,All-wheel drive (AWD),Gas
+14590968,1499857677,Honda,CR-V,1999,$2100,Used,400000,Manual,All-wheel drive (AWD),Gas
+14590979,1499857741,Hyundai,Tiburon,2008,N/A,Used,185000,Manual,Front-wheel drive (FWD),Gas
+14591075,1499858093,GMC,Suburban,1998,$2800,Used,307000,Automatic,Four-wheel drive,Gas
+14591188,1499858346,Toyota,Camry,2001,$1800,Used,323,Automatic,All-wheel drive (AWD),Gas
+14591288,1499858588,Chevrolet,Silverado 2500,2003,$3000,Used,550000,Automatic,N/A,Gas
+14591290,1499858606,Mercury,Grand Marquis,1999,$2000,Used,198000,Automatic,Rear-wheel drive (RWD),Gas
+14591292,1499858631,Dodge,Journey,2010,$5900,Used,126000,Automatic,Front-wheel drive (FWD),Gas
+14591510,1499859179,Chevrolet,Cobalt,2008,$1000,Damaged,149000,Manual,Front-wheel drive (FWD),Gas
+14591516,1499859223,RAM,2500,2011,$11500,Used,254000,Automatic,Four-wheel drive,Gas
+14591619,1499859401,Honda,Civic,2008,$4999,Used,299,Automatic,Front-wheel drive (FWD),Gas
+14591835,1499859867,Lexus,GS,2013,$24500,Used,115000,N/A,N/A,N/A
+14591949,1499860063,Pontiac,Trans Am,1987,N/A,Used,90000,Automatic,Rear-wheel drive (RWD),N/A
+14591958,1499860074,Kia,Rio,2015,$8000,Used,99000,Automatic,Front-wheel drive (FWD),N/A
+14592279,1499862469,Buick,Grand National,1987,N/A,Used,11,N/A,N/A,N/A
+14592284,1499862544,Acura,TL,2007,$10600,Used,162000,Automatic,Front-wheel drive (FWD),Gas
+14592383,1499862999,Lincoln,LS,2005,$3500,Used,119000,Automatic,Rear-wheel drive (RWD),N/A
+14592720,1499864505,Honda,Accord,2010,$5200,Used,140000,Automatic,N/A,N/A
+14592721,1499864508,Mercedes-Benz,C-Class,2006,$2999,Used,196200,N/A,Rear-wheel drive (RWD),Gas
+14592823,1499865338,Buick,Enclave,2009,$20,Used,50,N/A,N/A,N/A
+14592928,07656117-1818-43ee-8f92-40732a4fa92c,Shelby,Mustang GT,2011,$43000,Used,77000,Manual,Rear-wheel drive (RWD),Gas
+14592929,1499866374,Chevrolet,Equinox,2010,$5000,Used,218000,Automatic,All-wheel drive (AWD),Gas
+14592931,1499866399,Mazda,MX-5,2005,$11900,Used,58000,Automatic,Front-wheel drive (FWD),Gas
+14592933,1499866416,Mercedes-Benz,E-Class,2001,$5000,Used,152000,Automatic,Rear-wheel drive (RWD),Gas
+14592934,1499866494,Volkswagen,Touareg,2010,$11500,Used,166000,Automatic,Four-wheel drive,Gas
+14592937,1499866505,Nissan,Maxima,2010,$10999,Used,66500,Automatic,Front-wheel drive (FWD),Gas
+14592939,1499866507,Nissan,Sentra,2013,$8500,Used,56300,Automatic,Front-wheel drive (FWD),Gas
+14593032,1499867549,Dodge,Grand Caravan,2014,$14000,Used,151000,N/A,N/A,N/A
+14593042,1499867673,Nissan,Altima,2008,$3900,Used,143000,Automatic,Front-wheel drive (FWD),Gas
+14593150,1499868886,Nissan,Altima,2007,$1500,Used,290000,Automatic,Front-wheel drive (FWD),Gas
+14593152,1499868895,Dodge,Charger,2010,N/A,Used,11,N/A,N/A,N/A
+14593156,1499868950,Ford,F 350,2010,$12500,Used,285000,Automatic,Four-wheel drive,Diesel
+14593160,1499869016,Chrysler,Imperial,1983,$7500,Used,100000,Automatic,N/A,Gas
+14593161,1499869052,Ford,Explorer,2014,$15000,Used,170000,Automatic,Four-wheel drive,N/A
+14593259,1499870297,Hyundai,Sonata,2008,$2700,Used,190000,Automatic,Front-wheel drive (FWD),Gas
+14593261,1499870348,Ford,F 150,2016,$17999,Used,146620,Automatic,Four-wheel drive,Other
+14593262,1499870361,RAM,1500,2010,$19500,Used,158000,Automatic,Four-wheel drive,Gas
+14593263,1499870406,Ford,Escape,2017,$23000,Used,70175,Automatic,Four-wheel drive,Gas
+14593267,1499870569,Jeep,Other,2011,$22250,Used,97700,Automatic,Four-wheel drive,Gas
+14593371,1499872430,Dodge,Challenger,1970,$70000,Used,91000,N/A,N/A,N/A
+14593372,1499872454,GMC,Sierra 1500,2013,$15500,Used,158000,Automatic,N/A,N/A
+14593379,1499872588,GMC,Sierra 1500,2013,$18000,Used,193000,N/A,N/A,N/A
+14593477,22350053,Hyundai,Accent,2012,$7951,Used,99761,Automatic,Front-wheel drive (FWD),Gas
+14593478,21998053,Honda,CR-V,2017,$25995,Used,76578,Automatic,All-wheel drive (AWD),Gas
+14593479,22350057,RAM,1500,2017,$24891,Used,89219,Automatic,Four-wheel drive,Gas
+14593480,22145122,Ford,Escape,2015,$10900,Used,152149,Automatic,Four-wheel drive,Gas
+14593481,22350055,Chevrolet,Cruze,2018,$14391,Used,93980,Automatic,Front-wheel drive (FWD),Gas
+14593482,22350836,GMC,Terrain,2019,$29800,Certified Pre-Owned,21132,Automatic,All-wheel drive (AWD),Gas
+14593483,22349889,Toyota,Yaris,2016,$11685,Used,63000,Manual,Front-wheel drive (FWD),Gas
+14593484,22349921,Hyundai,Accent,2014,$7977,Used,106266,Automatic,Front-wheel drive (FWD),Gas
+14593485,22350015,Subaru,XV Crosstrek,2018,$23498,Used,28000,Automatic,Four-wheel drive,Gas
+14593486,22349924,Volvo,S60,2004,$2777,Used,194900,Automatic,All-wheel drive (AWD),Gas
+14593487,22349925,Chevrolet,Impala,2009,$3977,Used,141178,Automatic,Front-wheel drive (FWD),Gas
+14593488,22349883,Kia,Niro,2017,$22490,Used,25881,Automatic,Front-wheel drive (FWD),Other
+14593489,22349886,Kia,Forte,2017,$12990,Used,51653,Automatic,Front-wheel drive (FWD),Gas
+14593491,22349968,Toyota,Yaris,2009,$4295,Used,106534,Manual,Front-wheel drive (FWD),Gas
+14593587,22350250,Ford,Edge,2017,$26900,Used,30024,Automatic,All-wheel drive (AWD),Gas
+14593588,22350290,Toyota,RAV 4,2016,N/A,Used,65000,Automatic,All-wheel drive (AWD),Gas
+14593589,22350311,Honda,Fit,2016,$16900,Used,75293,Automatic,Front-wheel drive (FWD),Gas
+14593590,22309588,Hyundai,Elantra,2019,$16998,Used,15465,Automatic,Front-wheel drive (FWD),Gas
+14593591,22350308,Acura,ILX,2016,$18500,Used,91216,Automatic,Front-wheel drive (FWD),Gas
+14593592,22350111,Kia,Forte,2015,$11997,Used,79687,Automatic,Front-wheel drive (FWD),Gas
+14593593,22350303,Acura,RDX,2017,$28900,Used,47189,Automatic,All-wheel drive (AWD),Gas
+14593594,22350304,Honda,HR-V,2017,$22900,Used,34161,Automatic,All-wheel drive (AWD),Gas
+14593596,22350307,Honda,Civic,2019,$18900,Used,23138,Manual,Front-wheel drive (FWD),Gas
+14593597,22350312,Honda,Odyssey,2019,$35500,Used,84987,Automatic,Front-wheel drive (FWD),Gas
+14593598,22350306,Acura,RDX,2017,$29500,Used,51136,Automatic,All-wheel drive (AWD),Gas
+14593599,22349931,McLaren,Other,2019,$309900,Used,3417,Automatic,Rear-wheel drive (RWD),Other
+14593600,22343368,RAM,1500,2011,$10995,Used,132929,Automatic,Four-wheel drive,Gas
+14593601,22335283,Ford,Explorer,2018,$37995,Used,29819,Automatic,Other,Gas
+14593700,22350412,Ford,F 150,2018,$39990,Used,22862,Automatic,Four-wheel drive,Gas
+14593701,22350108,Honda,Civic,2012,$5992,Used,185601,Automatic,Front-wheel drive (FWD),Gas
+14593702,22350327,Honda,CR-V,2018,N/A,Used,0,Automatic,All-wheel drive (AWD),Gas
+14593703,22349478,Nissan,Armada,2014,$21995,Certified Pre-Owned,154171,Automatic,Four-wheel drive,Gas
+14593705,22350776,Honda,CR-V,2020,$42950,Used,9678,Automatic,All-wheel drive (AWD),Gas
+14593706,22349554,Nissan,Kicks,2020,$21092,New,15,Automatic,Front-wheel drive (FWD),Gas
+14593707,22350775,Hyundai,Santa Fe,2018,$20950,Used,48123,Automatic,All-wheel drive (AWD),Gas
+14593708,22349525,Audi,SQ5,2019,$81257,New,46,Automatic,All-wheel drive (AWD),Gas
+14593709,22350564,Infiniti,QX50,2019,$45998,Used,8225,Automatic,All-wheel drive (AWD),Gas
+14593710,21934320,BMW,5 Series,2016,$26880,Used,59000,Automatic,All-wheel drive (AWD),Gas
+14593711,22350565,Infiniti,QX50,2019,$59526,Used,90,Automatic,All-wheel drive (AWD),Gas
+14593712,22350563,Infiniti,Q50,2019,$65181,Used,90,Automatic,All-wheel drive (AWD),Gas
+14593713,21979448,Volvo,XC60,2018,$37450,Used,89699,Automatic,All-wheel drive (AWD),Gas
+14593714,22350558,Infiniti,Q50,2019,$40403,Used,90,Automatic,All-wheel drive (AWD),Gas
+14593809,1499874815,Suzuki,XL7,2002,$1000,Used,257373,N/A,Four-wheel drive,N/A
+14593810,22350577,Kia,Rondo,2012,$8888,Used,114694,Automatic,Front-wheel drive (FWD),Gas
+14593812,22350754,BMW,X1,2018,N/A,Used,15453,Automatic,All-wheel drive (AWD),Gas
+14593813,22349543,RAM,1500,2018,N/A,Used,30685,Automatic,Four-wheel drive,Gas
+14593815,22349503,Chevrolet,Equinox,2011,$9888,Used,133440,Automatic,All-wheel drive (AWD),Gas
+14593816,22349477,Chevrolet,Camaro,2019,$49700,Used,8653,Automatic,Rear-wheel drive (RWD),Gas
+14593817,22350806,BMW,X1,2018,N/A,Used,15453,Automatic,All-wheel drive (AWD),Gas
+14593819,22349470,Chevrolet,Trailblazer,2021,$28493,New,6,Automatic,Front-wheel drive (FWD),Gas
+14593820,22349471,Chevrolet,Trailblazer,2021,$35683,New,15,Automatic,All-wheel drive (AWD),Gas
+14593821,22349476,Chevrolet,Silverado 1500,2016,N/A,Used,53542,Automatic,Four-wheel drive,Gas
+14593924,22351336,Ford,Mustang,2019,$43995,Used,12700,Automatic,Other,Gas
+14593926,22351362,Ford,F 150,2016,$24995,Used,109694,Automatic,Four-wheel drive,Gas
+14593927,22351333,Dodge,Grand Caravan,2016,$16995,Used,62500,Automatic,Front-wheel drive (FWD),Gas
+14593928,22351355,Hyundai,Santa Fe,2020,$44850,New,1,Automatic,All-wheel drive (AWD),Gas
+14593929,22351371,Kia,Rio,2014,N/A,Used,83025,Automatic,Front-wheel drive (FWD),Gas
+14593930,22351324,BMW,X3,2013,$13884,Used,117306,Automatic,All-wheel drive (AWD),Gas
+14593931,22351346,Chevrolet,Volt,2017,$11950,Used,326074,Automatic,Front-wheel drive (FWD),Gas
+14593932,22351325,Nissan,Rogue,2016,$14888,Used,70489,Automatic,All-wheel drive (AWD),Gas
+14593934,22351372,Honda,Civic,2009,$2977,Used,260323,Automatic,Other,Gas
+14593936,22351317,Honda,CR-V,2008,$4999,Used,270000,Automatic,Four-wheel drive,Gas
+14593937,22351350,Mazda,3,2008,$1995,Used,173029,Automatic,Other,Gas
+14593938,22351315,Chevrolet,Colorado,2016,$16800,Used,123235,Automatic,Four-wheel drive,Gas
+14594032,22353581,Honda,Accord,2015,$14695,Used,80092,Automatic,Front-wheel drive (FWD),Gas
+14594033,22353584,Volkswagen,Golf,2017,$17291,Used,41000,Automatic,Front-wheel drive (FWD),Gas
+14594034,22353583,Jeep,Grand Cherokee,2018,$33495,Used,67555,Automatic,Four-wheel drive,Gas
+14594035,22353308,Toyota,RAV 4,2018,$25995,Used,38042,Automatic,All-wheel drive (AWD),Gas
+14594037,22353326,Mitsubishi,Outlander,2017,$15395,Used,106001,Automatic,Four-wheel drive,Gas
+14594038,22353577,Kia,Rio,2015,$9995,Used,31781,Manual,Front-wheel drive (FWD),Gas
+14594039,22353355,Kia,Sorento,2014,$12495,Used,87000,Automatic,All-wheel drive (AWD),Gas
+14594040,22353582,Nissan,Altima,2019,$24991,Used,10526,Automatic,All-wheel drive (AWD),Gas
+14594041,22353222,Mazda,6,2019,$34499,Used,1000,Automatic,Front-wheel drive (FWD),Gas
+14594042,22353248,Acura,MDX,2007,$2850,Used,294951,Automatic,All-wheel drive (AWD),Gas
+14594043,22353218,Hyundai,Elantra,2020,$17978,Used,8000,Automatic,Front-wheel drive (FWD),Gas
+14594045,22353206,Mazda,CX-9,2018,$34995,Used,37154,Automatic,All-wheel drive (AWD),Gas
+14594046,22353588,Nissan,Sentra,2013,$6994,Used,131700,Automatic,Front-wheel drive (FWD),Gas
+14594142,22353592,Ford,Focus,2012,$5995,Used,130419,Manual,Front-wheel drive (FWD),Gas
+14594143,22352226,Nissan,Altima,2004,$1995,Used,233252,Automatic,Front-wheel drive (FWD),Gas
+14594150,22351895,Audi,Q3,2020,$39995,Used,124,Automatic,All-wheel drive (AWD),Gas
+14594151,22352208,RAM,1500,2016,$27995,Used,95023,Automatic,Four-wheel drive,Gas
+14594152,22352207,Buick,Regal,2011,$7995,Used,131020,Automatic,Other,Gas
+14594154,22352238,Mercedes-Benz,Other,2016,$22490,Used,69699,Automatic,All-wheel drive (AWD),Gas
+14594155,22351493,Chevrolet,Cruze,2013,$7995,Used,152239,Automatic,Front-wheel drive (FWD),Gas
+14594156,22351494,Hyundai,Accent,2016,$6800,Used,201258,Automatic,Front-wheel drive (FWD),Gas
+14594250,22352730,Chevrolet,Silverado 1500,2017,$36995,Used,111338,Automatic,Four-wheel drive,Gas
+14594252,22351513,Toyota,Yaris,2008,$4950,Used,157000,Automatic,Front-wheel drive (FWD),Gas
+14594253,22352682,GMC,Sierra 2500,2017,$51999,Used,26222,Automatic,Four-wheel drive,Gas
+14594254,22352691,Chevrolet,Silverado 1500,2020,$55573,New,0,Automatic,Four-wheel drive,Gas
+14594255,22353082,Dodge,Dart,2013,N/A,Used,171859,Automatic,Front-wheel drive (FWD),Gas
+14594256,22352738,Chevrolet,Silverado 2500,2020,$55553,New,0,Automatic,Four-wheel drive,Gas
+14594258,22352765,Hyundai,Santa Fe,2013,$14990,Used,95550,Automatic,All-wheel drive (AWD),Gas
+14594259,22352843,Toyota,Camry,2019,$23977,Used,17888,Automatic,Front-wheel drive (FWD),Gas
+14594260,22352811,Other,Other,2000,$4992,Used,75500,Automatic,Other,Gas
+14594261,22352764,Honda,CR-V,2015,$18500,Used,61980,Automatic,All-wheel drive (AWD),Gas
+14594262,22353564,Jeep,Patriot,2010,$4400,Used,151000,Automatic,Front-wheel drive (FWD),Gas
+14594263,22353118,Ford,Mustang,2019,$43999,Used,10079,Automatic,Rear-wheel drive (RWD),Other
+14594356,22353264,Honda,CR-V,2017,$23998,Used,54425,Automatic,All-wheel drive (AWD),Gas
+14594357,22353142,GMC,Terrain,2019,N/A,Used,30734,Automatic,All-wheel drive (AWD),Other
+14594358,22353081,Chevrolet,Spark,2020,$17493,New,11,Automatic,Front-wheel drive (FWD),Gas
+14594359,22353113,Hyundai,Elantra,2018,N/A,Used,1,Automatic,Front-wheel drive (FWD),Gas
+14594360,22353117,Nissan,Murano,2016,N/A,Used,25845,Automatic,All-wheel drive (AWD),Gas
+14594361,22353077,Chevrolet,Spark,2020,$11993,New,11,Manual,Front-wheel drive (FWD),Gas
+14594362,22353169,Chevrolet,Silverado 3500,2015,$54999,Used,105900,Automatic,Four-wheel drive,Diesel
+14594363,22353021,Ford,F 350,2020,$82841,New,101,Automatic,Four-wheel drive,Diesel
+14594364,22353136,Chevrolet,Camaro,2015,N/A,Used,86913,Automatic,Rear-wheel drive (RWD),Gas
+14594365,22353103,RAM,1500,2013,N/A,Used,1,Automatic,Four-wheel drive,Gas
+14594366,22353167,Toyota,Tundra,2010,$25987,Used,165432,Automatic,Four-wheel drive,Gas
+14594367,22353809,Ford,Focus,2010,N/A,Used,214235,Automatic,Front-wheel drive (FWD),Gas
+14594368,22353808,Jeep,Compass,2010,N/A,Used,221519,Automatic,Front-wheel drive (FWD),Gas
+14594370,22353624,BMW,3 Series,2013,N/A,Used,127303,Automatic,All-wheel drive (AWD),Gas
+14594467,22354283,Nissan,Rogue,2010,$312,Used,175453,Automatic,Other,Gas
+14594468,22353997,Chevrolet,Silverado 1500,2017,$34801,Used,41558,Automatic,Four-wheel drive,Gas
+14594469,22354260,Ford,F 250,2017,$56900,Used,78653,Automatic,Four-wheel drive,Diesel
+14594471,22354066,GMC,Terrain,2017,$10500,Used,222000,Automatic,Other,Gas
+14594472,22354068,Ford,Fusion,2014,$8800,Used,128000,Automatic,Other,Gas
+14594473,22354301,Ford,F 150,2017,$32999,Used,79063,Automatic,Four-wheel drive,Gas
+14594476,22354350,Buick,Envision,2020,$43088,New,0,Automatic,All-wheel drive (AWD),Gas
+14594477,22354314,Chevrolet,Equinox,2013,$10900,Certified Pre-Owned,121589,Automatic,All-wheel drive (AWD),Gas
+14594478,22354316,GMC,Sierra,2019,$33489,Used,34584,Automatic,Four-wheel drive,Gas
+14594479,22354303,Ford,Escape,2020,$42599,New,12,Automatic,All-wheel drive (AWD),Hybrid
+14594480,22353887,Toyota,Corolla,2017,$12995,Used,121000,Automatic,Front-wheel drive (FWD),Gas
+14594481,22354349,Chevrolet,Express,2020,$43003,New,0,Automatic,Rear-wheel drive (RWD),Gas
+14594577,22353998,Hyundai,Elantra,2011,$7995,Used,120135,Automatic,Front-wheel drive (FWD),Gas
+14594578,22354321,Chevrolet,Equinox,2016,$13988,Used,127948,Automatic,Front-wheel drive (FWD),Gas
+14594579,22354476,Ford,Taurus,2001,$4995,Used,72797,Automatic,Front-wheel drive (FWD),Gas
+14594580,22354442,Nissan,Murano,2015,$23989,Used,97014,Automatic,All-wheel drive (AWD),Gas
+14594581,22354478,GMC,Sierra 1500,2010,$9495,Used,250475,Automatic,Four-wheel drive,Gas
+14594582,22354474,Porsche,Cayenne,2013,N/A,Used,120237,Automatic,All-wheel drive (AWD),Gas
+14594583,22354463,Honda,Civic,2014,$9500,Used,73045,Manual,Front-wheel drive (FWD),Gas
+14594584,22354650,RAM,1500,2020,$87810,New,0,Automatic,Other,Gas
+14594585,22354651,RAM,1500,2020,$87810,New,0,Automatic,Other,Gas
+14594586,22354448,RAM,1500,2015,$31875,Used,73707,Automatic,Four-wheel drive,Gas
+14594588,22354449,RAM,1500,2016,$23465,Used,156367,Automatic,Four-wheel drive,Gas
+14594589,22354433,Dodge,Durango,2015,$25968,Used,141365,Automatic,All-wheel drive (AWD),Gas
+14594591,22354645,RAM,1500,2020,$43450,Used,12064,Automatic,Four-wheel drive,Gas
+14594693,1499877876,Mercedes-Benz,SL,1991,$12500,Used,142,Automatic,N/A,N/A
+14594694,1499877932,Other,Other,1966,$12500,Used,1234,Automatic,N/A,Gas
+14594695,1499877983,Infiniti,M45,2003,$600,Used,186000,Automatic,Rear-wheel drive (RWD),Gas
+14594697,1499878023,Honda,Fit,2009,$3200,Used,262000,Automatic,Front-wheel drive (FWD),Gas
+14594699,1499878040,Mazda,Other,1996,$8500,Used,200000,N/A,Other,Gas
+14594795,1499878555,Cadillac,SRX,2012,$15000,Used,110585,Automatic,All-wheel drive (AWD),Gas
+14594797,1499878572,Toyota,RAV 4,2013,$13000,Used,97000,Automatic,All-wheel drive (AWD),Gas
+14594799,1499878586,Chrysler,300,2007,$6000,Used,102000,Automatic,Rear-wheel drive (RWD),N/A
+14594802,22346016,Chevrolet,Trax,2015,$8950,Used,125802,Manual,Front-wheel drive (FWD),Gas
+14594803,22346005,Nissan,Versa,2015,$6450,Used,226874,Automatic,Front-wheel drive (FWD),Gas
+14594804,1499878658,Mazda,MX-3,2012,$6750,Used,137500,Automatic,Front-wheel drive (FWD),Gas
+14594806,22346008,BMW,X3,2013,$13450,Used,164923,Automatic,All-wheel drive (AWD),Gas
+14594808,1499878826,Dodge,Other,2008,$16900,Used,270000,N/A,Four-wheel drive,Diesel
+14594906,22348724,Kia,Soul,2020,N/A,New,25,Automatic,Front-wheel drive (FWD),Gas
+14594907,22348692,Land Rover,Range Rover Velar,2018,$63995,Used,384,Automatic,Four-wheel drive,Gas
+14594908,22348714,Land Rover,Range Rover Sport,2016,$54985,Used,51150,Automatic,Four-wheel drive,Diesel
+14594909,22348720,Kia,Soul,2020,N/A,New,5028,Automatic,Front-wheel drive (FWD),Gas
+14594910,22348706,Kia,Forte,2019,N/A,New,33,Automatic,Front-wheel drive (FWD),Gas
+14594911,22348685,Kia,Stinger,2019,$44687,Used,354,Automatic,All-wheel drive (AWD),Gas
+14594912,22348701,Kia,Soul,2020,N/A,New,5714,Automatic,Front-wheel drive (FWD),Gas
+14594913,22348721,Nissan,Versa,2018,$14715,Used,32549,Automatic,Front-wheel drive (FWD),Gas
+14594914,22348728,Kia,Forte5,2020,N/A,New,12,Automatic,Front-wheel drive (FWD),Gas
+14594915,22348730,Jaguar,XE,2018,$49995,Used,85,Automatic,All-wheel drive (AWD),Gas
+14594916,22348677,Kia,Soul,2020,N/A,New,3789,Automatic,Front-wheel drive (FWD),Gas
+14594917,22190365,Toyota,Tundra,2014,$29171,Used,139807,Automatic,Four-wheel drive,Gas
+14594918,22190351,Nissan,Altima,2010,$10509,Used,64122,Automatic,Front-wheel drive (FWD),Gas
+14594919,22294367,Jeep,Patriot,2017,$16315,Certified Pre-Owned,56581,Automatic,Four-wheel drive,Gas
+14594920,22348738,Nissan,Murano,2017,$27895,Used,28595,Automatic,All-wheel drive (AWD),Gas
+14595013,22348821,Kia,Other,2021,N/A,New,77,Automatic,All-wheel drive (AWD),Gas
+14595014,22348818,Kia,Forte,2020,N/A,New,10,Automatic,Front-wheel drive (FWD),Gas
+14595015,22348816,Kia,Forte,2020,$21290,New,12,Automatic,Front-wheel drive (FWD),Gas
+14595016,22348817,Kia,Forte,2020,N/A,New,8,Automatic,Front-wheel drive (FWD),Gas
+14595019,22348815,Kia,Telluride,2020,N/A,New,12,Automatic,All-wheel drive (AWD),Gas
+14595020,22348824,Kia,Forte,2020,N/A,New,12,Automatic,Front-wheel drive (FWD),Gas
+14595021,22348820,Nissan,Rogue,2018,$24987,Used,27671,Automatic,All-wheel drive (AWD),Gas
+14595022,22348829,Kia,Forte,2020,$21290,New,10,Automatic,Front-wheel drive (FWD),Gas
+14595023,22348657,Kia,Sorento,2019,$38995,Used,13730,Automatic,All-wheel drive (AWD),Gas
+14595024,22348675,Kia,Rio,2020,N/A,New,12,Automatic,Front-wheel drive (FWD),Gas
+14595025,22348948,Kia,Soul,2020,$53490,New,8,Automatic,Front-wheel drive (FWD),Other
+14595026,22348679,Kia,Rio,2020,N/A,New,5,Automatic,Front-wheel drive (FWD),Gas
+14595027,22348942,Kia,Forte5,2020,$28687,Used,46,Automatic,Front-wheel drive (FWD),Gas
+14595121,22348776,Kia,Sorento,2020,$33140,New,9,Automatic,All-wheel drive (AWD),Gas
+14595122,22348718,Kia,Niro,2020,N/A,New,14,Automatic,Front-wheel drive (FWD),Hybrid
+14595123,22348733,Kia,Sportage,2020,$26995,Used,2803,Automatic,All-wheel drive (AWD),Gas
+14595124,22348690,Kia,Sorento,2020,N/A,New,8,Automatic,All-wheel drive (AWD),Gas
+14595125,22348772,Kia,Niro,2020,$40140,New,6,Automatic,Front-wheel drive (FWD),Hybrid
+14595126,22348777,Kia,Forte,2020,$21040,New,8,Automatic,Front-wheel drive (FWD),Gas
+14595127,22348765,Kia,Niro,2020,$30890,New,12,Automatic,Front-wheel drive (FWD),Hybrid
+14595128,22348783,Kia,Forte,2020,$21290,New,15,Automatic,Front-wheel drive (FWD),Gas
+14595129,22348705,Kia,Sorento,2019,$34995,Used,10208,Automatic,All-wheel drive (AWD),Gas
+14595130,22348734,Kia,Sorento,2019,$25995,Used,5111,Automatic,All-wheel drive (AWD),Gas
+14595131,22348691,Kia,Sorento,2020,N/A,New,8,Automatic,All-wheel drive (AWD),Gas
+14595132,1499880286,Jeep,Wrangler,2018,$37000,Used,50000,Automatic,All-wheel drive (AWD),N/A
+14595134,22348827,Kia,Sorento,2020,$38240,New,7,Automatic,All-wheel drive (AWD),Gas
+14595135,22348711,Kia,Sorento,2020,N/A,New,9,Automatic,All-wheel drive (AWD),Gas
+14595232,1499881565,Nissan,Titan,2005,$7500,Used,183000,Automatic,Four-wheel drive,Gas
+14595233,1499881601,Kia,Sorento,2015,$14700,Used,113000,Automatic,All-wheel drive (AWD),Gas
+14595239,1499881785,BMW,5 Series,2006,$3000,Used,255000,Automatic,Rear-wheel drive (RWD),Gas
+14595241,1499881793,Land Rover,Range Rover,1999,$8000,Used,167000,Automatic,Four-wheel drive,Gas
+14595244,1499881890,Mazda,6,2010,$5599,Used,157950,Automatic,Front-wheel drive (FWD),Gas
+14595245,1499881896,Ford,F 150,2010,$9800,Used,283000,Automatic,Four-wheel drive,Gas
+14595341,1499884543,Ford,Mustang,2001,$7900,Used,153000,Manual,Rear-wheel drive (RWD),Gas
+14595342,1499884580,Jaguar,XJS,1989,$19755,Used,80000,Automatic,Rear-wheel drive (RWD),Gas
+14595344,1499884623,Ford,F 250,2017,$25500,Used,64000,Automatic,Four-wheel drive,Gas
+14595345,1499884626,Mazda,3,2014,$9500,Used,86000,Manual,Front-wheel drive (FWD),N/A
+14595352,1499884723,Hyundai,Elantra,2017,$13600,Used,37000,Automatic,Front-wheel drive (FWD),Gas
+14595450,1499887388,Mitsubishi,Mirage,2015,$5500,Used,100000,Manual,Front-wheel drive (FWD),Gas
+14595452,1499887416,Kia,Rio,2008,$2000,Used,120000,Automatic,Front-wheel drive (FWD),Gas
+14595454,91f427ba-1aa2-4909-af28-f17028551e84,Ford,Mustang,2012,$17300,Used,57900,Manual,Rear-wheel drive (RWD),Gas
+14595456,1499887562,Honda,Accord,2001,$700,Damaged,158000,Automatic,N/A,N/A
+14595457,1499887570,GMC,Sierra 2500,2012,$26000,Used,202000,Automatic,Four-wheel drive,Diesel
+14595462,1499887638,BMW,3 Series,2011,$13000,Used,200000,Automatic,Rear-wheel drive (RWD),Gas
+14595464,1499887706,Hyundai,Veloster,2013,$7500,Used,69500,Manual,Front-wheel drive (FWD),N/A
+14595561,1499890392,Toyota,Other,2000,$8000,Used,190000,Manual,Rear-wheel drive (RWD),Hybrid
+14595562,1499890395,Hyundai,Elantra,2012,$4500,Used,215000,Automatic,Front-wheel drive (FWD),Gas
+14595563,1499890425,Jeep,Compass,2012,$10000,Used,82500,N/A,Four-wheel drive,Gas
+14595564,1499890477,Dodge,Other,1979,$28000,Used,11111,N/A,N/A,N/A
+14595566,1499890548,Ford,F 150,2004,$4700,Used,317,Automatic,Four-wheel drive,Gas
+14595567,1499890552,Chevrolet,Bel Air \\u002F 150 \\u002F 210,1957,$1234,Used,17000,N/A,N/A,N/A
+14595569,1499890569,Audi,A5,2010,$8900,Used,201000,Manual,All-wheel drive (AWD),Gas
+14595570,1499890605,Hyundai,Kona,2020,$29999,Used,1015,Automatic,All-wheel drive (AWD),Gas
+14595572,1499890630,Pontiac,G6,2007,$7250,Used,117472,Automatic,Front-wheel drive (FWD),Gas
+14595573,1499890654,GMC,Jimmy,2000,$4500,Used,290900,Automatic,Four-wheel drive,Gas
+14595675,1499893042,Acura,MDX,2009,$9800,Used,167000,Automatic,All-wheel drive (AWD),Electric
+14595677,1499893064,Chrysler,Sebring,2007,$4450,Used,94000,Automatic,Front-wheel drive (FWD),Gas
+14595681,1499893125,BMW,3 Series,1998,$2000,Used,202000,Automatic,Front-wheel drive (FWD),Gas
+14595684,1499893185,Subaru,Forester,2002,$2500,Used,40000,Manual,All-wheel drive (AWD),Gas
+14595685,1499893206,Dodge,Ram 2500,2010,$13800,Used,246162,Automatic,All-wheel drive (AWD),Gas
+14595786,1499895371,Dodge,Dart,2013,$8450,Used,107970,Manual,Front-wheel drive (FWD),Gas
+14595792,1499895488,Dodge,Journey,2015,$10000,Used,74000,Automatic,Front-wheel drive (FWD),Gas
+14595793,1499895507,Subaru,Outback,2008,$4000,Used,430000,Automatic,All-wheel drive (AWD),Gas
+14595794,1499895521,Ford,F 150,2010,$10500,Used,203000,Automatic,Four-wheel drive,Gas
+14595798,1499895611,Nissan,Altima,2009,$4299,Used,138000,Automatic,Front-wheel drive (FWD),Gas
+14595800,1499895629,Ford,F 650,2009,$22500,Used,200020,Manual,Rear-wheel drive (RWD),Diesel
+14595899,22354979,Chevrolet,Camaro,2020,$60577,New,3,Manual,Rear-wheel drive (RWD),Gas
+14595900,22354900,Land Rover,Range Rover Evoque,2017,$57490,Used,29246,Automatic,Four-wheel drive,Gas
+14595901,22355015,Dodge,Grand Caravan,2020,$44185,New,17,Automatic,Front-wheel drive (FWD),Gas
+14595902,22355012,Dodge,Grand Caravan,2020,$44185,New,17,Automatic,Front-wheel drive (FWD),Gas
+14595903,22354991,Cadillac,XT5,2019,$41990,Used,19502,Automatic,All-wheel drive (AWD),Gas
+14595904,22354999,Honda,Odyssey,2014,N/A,Used,45056,Automatic,Front-wheel drive (FWD),Gas
+14595905,22354998,Lexus,GS,2010,N/A,Used,0,Automatic,All-wheel drive (AWD),Gas
+14595906,22354997,Toyota,RAV 4,2018,N/A,Used,39909,Automatic,All-wheel drive (AWD),Gas
+14595907,22355017,Dodge,Durango,2020,$65590,New,17,Automatic,All-wheel drive (AWD),Gas
+14595908,22355013,Jeep,Grand Cherokee,2020,$64060,New,17,Automatic,Four-wheel drive,Gas
+14595909,22355010,Dodge,Grand Caravan,2020,$44460,New,17,Automatic,Front-wheel drive (FWD),Gas
+14595910,22355009,RAM,1500,2016,$23900,Used,121467,Automatic,Four-wheel drive,Gas
+14595913,1499897114,Dodge,Ram 1500,2017,$35900,Used,11240,Automatic,All-wheel drive (AWD),Gas
+14596013,22355005,RAM,2500,2017,$40000,Used,76854,Automatic,Four-wheel drive,Gas
+14596014,22355007,Nissan,Micra,2019,N/A,Used,15043,Automatic,Other,Gas
+14596015,22354913,Ford,F 150,2016,$43649,Used,69011,Automatic,Other,Gas
+14596016,22355006,Nissan,Micra,2019,N/A,Used,17932,Automatic,Other,Gas
+14596018,22354914,Ford,F 350,2020,$98579,New,1,Automatic,Four-wheel drive,Gas
+14596019,22354920,Ford,F 150,2015,$43399,Used,50996,Automatic,Other,Gas
+14596020,22354987,Dodge,Challenger,2019,$34999,Used,22915,Automatic,Rear-wheel drive (RWD),Gas
+14596022,22354984,Mazda,CX-9,2017,$50100,Used,0,Automatic,All-wheel drive (AWD),Gas
+14596023,22354986,Dodge,Challenger,2019,$35999,Used,13910,Automatic,Rear-wheel drive (RWD),Gas
+14596024,22354985,Honda,Civic,2017,$23390,Used,30121,Manual,Front-wheel drive (FWD),Gas
+14596025,22355008,Nissan,Micra,2019,N/A,Used,17043,Automatic,Other,Gas
+14596026,22354910,Ford,F 150,2020,$67599,New,1,Automatic,Four-wheel drive,Gas
+14596027,22354942,Chrysler,300,2005,$7900,Used,124189,Automatic,Rear-wheel drive (RWD),Gas
+14596124,1499899881,Ford,F 250,2016,$24700,Used,150000,N/A,N/A,N/A
+14596125,1499899890,Toyota,Tundra,2019,$58000,Used,51000,Automatic,Four-wheel drive,N/A
+14596126,1499899902,Toyota,Corolla,2014,$9800,Used,150000,Manual,Front-wheel drive (FWD),Gas
+14596127,1499899910,Chevrolet,Silverado 1500,1999,$3000,Used,214000,N/A,N/A,N/A
+14596129,1499899989,MINI,Cooper Countryman,2012,$10900,Used,83000,Manual,All-wheel drive (AWD),Gas
+14596131,1499900054,Lexus,IS,2014,$20000,Used,88000,Automatic,All-wheel drive (AWD),Gas
+14596132,1499900097,Chrysler,Sebring,2000,$3000,Used,117000,Automatic,Front-wheel drive (FWD),Gas
+14596134,1499900108,Toyota,Camry,2013,$9500,Used,97000,Automatic,Other,Gas
+14596135,1499900110,Acura,TL,2007,$2200,Used,220000,Automatic,N/A,N/A
+14596231,22355176,Kia,Sportage,2017,$23199,Used,31918,Automatic,All-wheel drive (AWD),Gas
+14596233,22355197,Nissan,Kicks,2020,$24513,New,0,Automatic,Front-wheel drive (FWD),Gas
+14596235,22355175,GMC,Yukon,2015,$38500,Used,107095,Automatic,Four-wheel drive,Gas
+14596236,22355200,Nissan,Rogue,2020,$32748,New,0,Automatic,All-wheel drive (AWD),Gas
+14596237,22355198,Nissan,Rogue,2020,$32913,New,0,Automatic,All-wheel drive (AWD),Gas
+14596238,22355153,Ford,Thunderbird,2002,$20900,Used,62442,Automatic,Rear-wheel drive (RWD),Gas
+14596239,22355149,Ford,F 150,2016,N/A,Used,68133,Automatic,Four-wheel drive,Other
+14596240,22355146,Ford,F 350,2019,$69900,Used,15007,Automatic,Four-wheel drive,Other
+14596241,22355133,Toyota,FJ Cruiser,2007,N/A,Used,163744,Automatic,Four-wheel drive,Gas
+14596242,22355199,Nissan,Murano,2020,$41848,New,0,Automatic,All-wheel drive (AWD),Gas
+14596245,22355179,GMC,Sierra 1500,2009,$12450,Used,174836,Automatic,Four-wheel drive,Other
+14596343,1499903907,Subaru,WRX,2013,$16600,Used,99000,Manual,All-wheel drive (AWD),Gas
+14596345,1499903984,Ford,F 350,2006,$7500,Used,268629,Automatic,Four-wheel drive,Diesel
+14596349,1499904169,Hyundai,Tucson,2011,$7500,Used,173000,Automatic,Front-wheel drive (FWD),N/A
+14596353,1499904219,Honda,Fit,2015,$9100,Used,142000,Automatic,Front-wheel drive (FWD),Gas
+14596355,1499904352,Honda,Accord,2007,$2300,Used,275000,Manual,Front-wheel drive (FWD),N/A
+14596449,1499906619,Ford,Model A,1929,$18500,Used,222222,Automatic,N/A,N/A
+14596451,1499906621,Smart,ForTwo,2009,$2800,Used,110000,Automatic,N/A,Gas
+14596460,1499906923,Subaru,Forester,2010,$5300,Used,198000,Automatic,All-wheel drive (AWD),Gas
+14596461,1499906950,Jeep,Grand Cherokee,2013,$17600,Used,154500,Automatic,Four-wheel drive,N/A
+14596559,1499908898,Honda,Civic,2012,$6000,Used,196000,Automatic,N/A,N/A
+14596562,1499908997,Mercedes-Benz,S-Class,2007,$9800,Used,171800,N/A,Rear-wheel drive (RWD),N/A
+14596563,1499909009,Subaru,WRX,2017,$1,Used,15500,Automatic,All-wheel drive (AWD),N/A
+14596565,1499909041,Chevrolet,C\\u002FK 1500,1946,N/A,Used,123456,Manual,N/A,Electric
+14596568,1499909057,Subaru,Impreza,2018,N/A,Used,26100,Automatic,All-wheel drive (AWD),Gas
+14596569,1499909083,Hyundai,Tucson,2008,$4500,Used,140000,N/A,N/A,N/A
+14596570,1499909095,Acura,TL,2010,$9999,Used,114000,Automatic,All-wheel drive (AWD),N/A
+14596572,1499909193,Buick,Other,1919,$2000,Used,19,N/A,N/A,N/A
+14596573,1499909206,Toyota,Camry,2018,$28000,Used,5526,Automatic,Other,Gas
+14596670,22350137,Honda,Accord,2016,$15495,Used,56106,Automatic,Front-wheel drive (FWD),Gas
+14596671,21675020,Toyota,Highlander,2019,$49985,Used,3982,Automatic,All-wheel drive (AWD),Hybrid
+14596672,21675019,Toyota,Highlander,2019,$49985,Used,6250,Automatic,All-wheel drive (AWD),Hybrid
+14596674,1499911534,Toyota,Tacoma,2008,$11500,Used,138000,Manual,Four-wheel drive,Gas
+14596676,1499911543,Mazda,3 Sport,2018,$23000,Used,38000,Manual,Front-wheel drive (FWD),Gas
+14596677,1499911611,Dodge,Charger,2006,$2000,Used,280000,Automatic,Rear-wheel drive (RWD),Gas
+14596678,1499911620,Ford,Explorer,2006,$1800,Damaged,330000,N/A,N/A,N/A
+14596679,1499911779,Lincoln,Mark Series,1977,$11000,Used,43000,Automatic,Rear-wheel drive (RWD),Gas
+14596681,1499911797,Chrysler,300,2008,$4000,Used,212,Automatic,Rear-wheel drive (RWD),Gas
+14596682,1499911801,RAM,3500,2016,$34995,Used,183000,Automatic,Four-wheel drive,Diesel
+14596774,1499913792,Ford,Thunderbird,1988,$3795,Used,148000,Automatic,Rear-wheel drive (RWD),Gas
+14596777,22349140,Fiat,500,2013,$9999,Used,71421,Automatic,Front-wheel drive (FWD),Gas
+14596782,1499913972,Mazda,CX-5,2016,$14300,Used,87000,Automatic,Other,Gas
+14596784,1499914102,Hyundai,Genesis,2010,$8000,Used,140,N/A,N/A,N/A
+14596883,1499916216,Chevrolet,Silverado 2500,2018,$40000,Used,152000,Automatic,Four-wheel drive,Diesel
+14596885,1499916260,Volkswagen,Golf,2001,$1100,Used,169180,Manual,Front-wheel drive (FWD),Gas
+14596886,1499916299,Toyota,Corolla,2013,$8800,Used,82000,Automatic,Front-wheel drive (FWD),Gas
+14596888,1499916324,Honda,CR-V,2002,$10000,Used,124500,Automatic,All-wheel drive (AWD),Gas
+14596889,1499916326,GMC,Sierra,2004,$4000,Used,268000,Automatic,Rear-wheel drive (RWD),Gas
+14596890,1499916356,Mazda,3,2008,$1500,Used,145000,Automatic,Other,Other
+14596891,1499916362,Audi,TT,2002,$6000,Used,1,Manual,All-wheel drive (AWD),Gas
+14596987,1499918954,Ford,Escape,2010,$5900,Used,188500,Automatic,Four-wheel drive,Other
+14596989,1499919002,Chevrolet,Tahoe,2003,N/A,Used,400,N/A,N/A,N/A
+14596990,1499919005,Ford,Mustang,2008,$12000,Used,80000,N/A,Rear-wheel drive (RWD),Gas
+14596992,1499919066,Lincoln,MKZ,2014,$15500,Used,72000,Automatic,Front-wheel drive (FWD),Gas
+14596997,1499919152,Hyundai,Santa Fe,2014,N/A,Used,150627,Automatic,All-wheel drive (AWD),Gas
+14596999,1499919158,Dodge,Other,1995,N/A,Used,200000,N/A,N/A,N/A
+14597000,1499919181,Jeep,Wrangler,2018,$39850,Used,42000,Automatic,Four-wheel drive,N/A
+14597091,1499921337,Lincoln,Town Car,2007,$2500,Used,230000,Automatic,Rear-wheel drive (RWD),Gas
+14597092,22355575,Chevrolet,Corvette,2019,$80995,Used,617,Automatic,Rear-wheel drive (RWD),Gas
+14597093,22355571,Chevrolet,Camaro,2015,$28995,Used,42773,Automatic,Rear-wheel drive (RWD),Gas
+14597094,22355448,Mazda,3,2015,$10588,Used,88000,Automatic,Front-wheel drive (FWD),Gas
+14597095,22355485,Dodge,Durango,2019,$37900,Used,34886,Automatic,All-wheel drive (AWD),Gas
+14597096,1499921347,Honda,CR-V,1998,$3300,Used,263000,Manual,All-wheel drive (AWD),N/A
+14597097,22355487,Toyota,Corolla,2015,$11954,Used,101181,Automatic,Front-wheel drive (FWD),Gas
+14597098,22355486,Jeep,Cherokee,2015,$21900,Used,72101,Automatic,Four-wheel drive,Gas
+14597100,22355573,Chevrolet,Sonic,2015,$9995,Used,64801,Automatic,Front-wheel drive (FWD),Gas
+14597102,22355488,RAM,1500,2018,$36900,Used,46336,Automatic,Four-wheel drive,Gas
+14597103,1499921393,Dodge,Ram 1500,1996,N/A,Used,189000,Automatic,Rear-wheel drive (RWD),N/A
+14597202,1499922030,Hyundai,Accent,2015,$8900,Used,48500,Automatic,Front-wheel drive (FWD),Gas
+14597203,1499922044,BMW,5 Series,2010,$17000,Used,119000,Automatic,N/A,Gas
+14597206,1499922093,Ford,Edge,2009,$9000,Used,199400,Automatic,All-wheel drive (AWD),Gas
+14597207,22355417,Hyundai,Santa Fe,2015,$22998,Used,60414,Automatic,All-wheel drive (AWD),Gas
+14597208,22355415,Toyota,Tundra,2018,$50998,Used,21594,Automatic,Four-wheel drive,Gas
+14597209,22355245,RAM,2500,2019,N/A,Used,21006,Automatic,Four-wheel drive,Gas
+14597210,22355419,Toyota,Tundra,2020,$53461,New,5,Automatic,Four-wheel drive,Gas
+14597211,22355423,Toyota,Prius V,2016,$22998,Used,108588,Automatic,Front-wheel drive (FWD),Hybrid
+14597212,22355422,Toyota,Sienna,2020,$44176,New,5,Automatic,All-wheel drive (AWD),Gas
+14597215,22355411,Toyota,RAV 4,2019,$32905,Used,12569,Automatic,All-wheel drive (AWD),Gas
+14597216,22355307,Jeep,Compass,2011,$6999,Used,203541,Automatic,Four-wheel drive,Gas
+14597313,1499923471,Honda,Odyssey,2007,$4750,Used,197000,Automatic,Front-wheel drive (FWD),Gas
+14597315,1499923536,Volkswagen,Jetta,2013,$8300,Used,110000,N/A,N/A,N/A
+14597317,1499923589,Mitsubishi,Lancer,2011,$1900,Damaged,185000,Automatic,N/A,Gas
+14597318,1499923604,Toyota,Highlander,2003,$3600,Used,298000,Automatic,All-wheel drive (AWD),N/A
+14597322,1499923688,Saturn,Aura,2008,$1800,Used,270000,Automatic,Front-wheel drive (FWD),Gas
+14597324,1499923779,Chevrolet,Caprice,1987,$5000,Used,150000,N/A,N/A,N/A
+14597326,1499923834,Kia,Sportage,2009,$4700,Used,167000,N/A,N/A,N/A
+14597327,1499923838,Chevrolet,Cruze,2014,$8889,Used,186000,Automatic,Front-wheel drive (FWD),Diesel
+14597421,21475818,Porsche,Panamera,2018,$94900,Used,25122,Automatic,All-wheel drive (AWD),Gas
+14597423,21661321,Dodge,Journey,2012,$8095,Used,138939,Automatic,Front-wheel drive (FWD),Gas
+14597425,22355750,Ford,F 150,2015,$24849,Used,76730,Automatic,Four-wheel drive,Gas
+14597426,22355699,Mazda,3,2011,$7230,Used,88648,Automatic,Front-wheel drive (FWD),Gas
+14597427,22355744,Ford,Escape,2016,$15729,Used,90205,Automatic,All-wheel drive (AWD),Gas
+14597428,22355776,RAM,1500,2014,$15800,Used,144327,Automatic,Four-wheel drive,Gas
+14597429,22355775,Subaru,Impreza,2017,$19800,Used,72903,Automatic,All-wheel drive (AWD),Gas
+14597431,22355684,Honda,Civic,2016,$13648,Certified Pre-Owned,47000,Manual,Front-wheel drive (FWD),Gas
+14597432,22355772,Nissan,Pathfinder,2017,$23555,Used,84000,Automatic,All-wheel drive (AWD),Gas
+14597433,22331436,Porsche,718,2018,$104900,Used,3900,Automatic,Rear-wheel drive (RWD),Other
+14597532,1499926530,Volvo,S60,2012,$16000,Used,18128,Automatic,Front-wheel drive (FWD),Gas
+14597534,1499926609,Ford,F 150,2006,$2500,Damaged,197000,N/A,N/A,N/A
+14597536,1499926670,Infiniti,G35x,2004,$2500,Used,295515,Automatic,All-wheel drive (AWD),Gas
+14597540,1499926677,Hyundai,Genesis Coupe,2010,$7500,Used,13300,Manual,Rear-wheel drive (RWD),Gas
+14597542,1499926695,Ford,F 250,2001,$2500,Not roadworthy,431000,Automatic,Four-wheel drive,Diesel
+14597545,1499926736,Dodge,Grand Caravan,2014,$9700,Used,145000,Automatic,N/A,Gas
+14597647,1499929385,Chevrolet,S-10,1999,$3000,Used,168245,Automatic,Rear-wheel drive (RWD),N/A
+14597654,1499929558,Toyota,Tundra,2016,$35500,Used,161000,Automatic,Four-wheel drive,Gas
+14597658,1499929564,BMW,3 Series,2013,$13000,Used,97000,Automatic,All-wheel drive (AWD),Gas
+14597661,1499929682,GMC,Sierra 1500,2010,$12000,Used,209000,N/A,N/A,N/A
+14597756,1499931608,Honda,Accord,1982,$5000,Used,150000,N/A,N/A,N/A
+14597757,1499931606,RAM,2500,2003,$8000,Used,195613,Automatic,Four-wheel drive,N/A
+14597758,1499931653,Toyota,Yaris,2014,$9500,Used,67500,Automatic,Front-wheel drive (FWD),Gas
+14597760,1499931702,Ford,Fusion,2013,$7000,Used,187200,Automatic,Front-wheel drive (FWD),N/A
+14597763,1499931731,Land Rover,Range Rover Sport,2014,$47500,Used,78000,Automatic,All-wheel drive (AWD),Gas
+14597764,1499931739,Chrysler,Sebring,2002,$2600,Used,177954,Automatic,Rear-wheel drive (RWD),N/A
+14597766,1499931804,Volkswagen,Cabrio,1986,$5000,Used,273000,Manual,N/A,Gas
+14597768,1499931867,Jeep,Grand Cherokee,2000,$3900,Used,226000,Automatic,Four-wheel drive,Gas
+14597866,de4f325e-e040-4acd-8cb2-b8445226d0da,Mercedes-Benz,E-Class,2015,$36000,Used,52400,Automatic,Rear-wheel drive (RWD),Gas
+14597869,1499933944,Honda,CR-V,2015,$16000,Used,105000,Automatic,All-wheel drive (AWD),Gas
+14597871,1499933979,Hyundai,Elantra,2020,$280,Used,6200,Automatic,N/A,N/A
+14597872,1499933996,Toyota,Corolla,2009,$4499,Used,201800,Manual,Front-wheel drive (FWD),Gas
+14597875,1499934053,Nissan,Sentra,2005,$2000,Used,219000,Automatic,N/A,N/A
+14597877,1499934092,Acura,EL,2003,$2450,Used,208465,Automatic,Front-wheel drive (FWD),Gas
+14597975,1499936206,Oldsmobile,Bravada,2003,$2000,Used,250261,Automatic,All-wheel drive (AWD),Gas
+14597976,1499936241,Honda,Civic,2004,$4250,Used,149000,Automatic,N/A,N/A
+14597977,1499936243,Dodge,Grand Caravan,2013,$9700,Used,125000,Automatic,Front-wheel drive (FWD),Gas
+14597983,1499936406,Subaru,Outback,2010,$2750,Used,268000,Automatic,All-wheel drive (AWD),Gas
+14597987,1499936581,Ford,Focus,2012,$6000,Used,156000,Automatic,N/A,N/A
+14597988,22356195,Volkswagen,Touareg,2009,$8995,Used,255648,Automatic,All-wheel drive (AWD),Diesel
+14598081,1499938739,GMC,Other,2012,$7800,Used,267000,Automatic,All-wheel drive (AWD),Gas
+14598084,1499938800,Jeep,Compass,2008,$1500,Used,301500,Automatic,Four-wheel drive,Gas
+14598085,1499938822,Honda,Odyssey,2005,$2100,Used,332000,Automatic,Front-wheel drive (FWD),Gas
+14598087,1499938841,Chevrolet,C\\u002FK 1500,1998,$3000,Used,315000,Automatic,N/A,Diesel
+14598088,10306128,Lincoln,Aviator,2005,$5995,Used,239780,Automatic,All-wheel drive (AWD),Gas
+14598089,1499938866,Mazda,3,2011,$5250,Used,147000,Automatic,Front-wheel drive (FWD),N/A
+14598090,1499938890,Jeep,Grand Cherokee,2005,$2200,Used,271000,Automatic,All-wheel drive (AWD),N/A
+14598091,1499938977,Nissan,Xterra,2004,$1500,Used,220000,Automatic,Four-wheel drive,Gas
+14598092,1499938979,Ford,F 350,2008,$6250,Used,264000,Manual,N/A,N/A
+14598093,1499938981,Chevrolet,Camaro,2011,N/A,Used,115500,Manual,N/A,N/A
+14598094,1499939022,Nissan,370Z,2010,$19500,Used,127654,Manual,Rear-wheel drive (RWD),Gas
+14598095,1499939031,Chevrolet,Silverado 2500,2003,$9800,Used,332600,Automatic,Four-wheel drive,Diesel
+14598190,1499941507,Hyundai,Elantra,2015,$10300,Used,70000,Automatic,All-wheel drive (AWD),N/A
+14598193,22338012,Honda,CR-V,2020,$30905,New,0,Automatic,Other,Gas
+14598194,22355731,Toyota,Matrix,2011,$7264,Used,143874,Automatic,Front-wheel drive (FWD),Gas
+14598195,22356464,BMW,3 Series,2012,$13990,Used,128392,Manual,All-wheel drive (AWD),Gas
+14598196,22355942,Dodge,Journey,2011,$4495,Used,154000,Automatic,Other,Gas
+14598197,22356475,Ford,Transit Connect,2016,$14995,Used,149378,Automatic,Front-wheel drive (FWD),Gas
+14598198,22355947,Volkswagen,Tiguan,2016,$17450,Used,56165,Automatic,All-wheel drive (AWD),Gas
+14598199,22355729,Mazda,3,2010,$3494,Used,183812,Manual,Front-wheel drive (FWD),Gas
+14598200,22355944,Chevrolet,Equinox,2011,$3495,Used,220000,Automatic,All-wheel drive (AWD),Gas
+14598201,22355939,Hyundai,Tucson,2011,$6880,Used,180572,Automatic,All-wheel drive (AWD),Gas
+14598202,22355938,Ford,Escape,2013,$8880,Used,180065,Automatic,Four-wheel drive,Gas
+14598203,22355941,Chevrolet,Silverado 1500,2009,$8495,Used,178000,Automatic,Rear-wheel drive (RWD),Gas
+14598299,22356707,Mercedes-Benz,Sprinter Wagon,2015,$29995,Used,134148,Automatic,Rear-wheel drive (RWD),Diesel
+14598300,1499942927,BMW,X1,2012,$10200,Used,122000,Automatic,All-wheel drive (AWD),Gas
+14598301,1499942932,Ford,F 150,2011,$10000,Used,195000,N/A,N/A,N/A
+14598302,1499942945,Toyota,Venza,2015,$22000,Used,59000,Automatic,All-wheel drive (AWD),N/A
+14598304,1499942948,Honda,Accord,2002,$1500,Used,278601,Automatic,Front-wheel drive (FWD),Gas
+14598305,1499942964,Dodge,Caravan,2015,$11900,Used,81000,N/A,N/A,N/A
+14598306,1499942977,Honda,Accord,2013,$11000,Used,124000,Automatic,Front-wheel drive (FWD),Gas
+14598307,1499942985,Jaguar,XF,2009,$7500,Used,235000,Automatic,Rear-wheel drive (RWD),Gas
+14598312,1499943150,Volkswagen,Golf,2008,$1500,Used,264000,Automatic,Front-wheel drive (FWD),N/A
+14598313,1499943230,Chevrolet,Traverse,2012,$8700,Used,167000,Automatic,All-wheel drive (AWD),Gas
+14598411,1499944772,Honda,Other,2003,N/A,Used,300000,Automatic,Front-wheel drive (FWD),Gas
+14598412,1499944785,Toyota,Corolla,2007,$6995,Used,88000,Automatic,Front-wheel drive (FWD),N/A
+14598415,1499944878,Buick,Allure,2005,$2400,Used,210000,Automatic,Front-wheel drive (FWD),Gas
+14598418,1499944913,Mercedes-Benz,M-Class,2014,$25500,Used,126000,Automatic,All-wheel drive (AWD),Diesel
+14598420,1499944923,Chevrolet,Cruze,2016,$12250,Used,49500,Automatic,Front-wheel drive (FWD),Gas
+14598421,1499944942,RAM,2500,2007,$7000,Used,240000,Automatic,Four-wheel drive,Gas
+14598422,1499944939,Acura,RDX,2008,$4980,Used,270000,Automatic,All-wheel drive (AWD),N/A
+14598425,1499944981,Chrysler,200,2016,N/A,Used,24000,Automatic,Other,Gas
+14598521,1499946893,Dodge,Nitro,2008,$1234,Used,203000,Automatic,Four-wheel drive,N/A
+14598522,1499946941,Toyota,Yaris,2008,$4989,Used,111123,Automatic,Front-wheel drive (FWD),Gas
+14598523,1ce04c1a-ac31-4e79-98f5-8b4e9eb801ab,BMW,3 Series,2011,$6000,Used,220000,Automatic,Rear-wheel drive (RWD),Gas
+14598524,1499946976,Smart,ForTwo,2006,$4500,Used,119803,N/A,N/A,Diesel
+14598525,1499946982,Ford,F 150,1995,$3200,Used,170000,Automatic,Four-wheel drive,N/A
+14598528,22356114,GMC,Yukon,2010,$16999,Used,150309,Automatic,Four-wheel drive,Gas
+14598531,1499947051,Honda,Odyssey,2007,$7995,Used,110000,Automatic,Front-wheel drive (FWD),Gas
+14598626,1499948787,Hyundai,Sonata,2003,$1800,Used,156000,Automatic,N/A,N/A
+14598629,1499948866,Dodge,Other Pickups,2015,$19500,Used,140,Automatic,Four-wheel drive,Gas
+14598630,1499948868,Honda,CR-V,2003,$1100,Used,344000,Automatic,Four-wheel drive,Gas
+14598633,1499948958,Pontiac,Sunfire,2000,$950,Used,186000,Automatic,N/A,Gas
+14598634,1499948973,Honda,Civic,2018,$17000,Used,66500,Automatic,Front-wheel drive (FWD),Gas
+14598637,1499949017,Chevrolet,Equinox,2006,$2800,Used,189000,Automatic,Front-wheel drive (FWD),Gas
+14598639,1499949028,Chevrolet,Cavalier,2002,$800,Used,250000,N/A,N/A,N/A
+14598640,1499949035,Nissan,Skyline,1991,$49000,Used,32000,N/A,N/A,N/A
+14598739,1499951220,Volkswagen,Beetle,1971,$1200,Used,55555,Automatic,Rear-wheel drive (RWD),Gas
+14598740,1499951217,GMC,Sierra 1500,2011,$8900,Used,201678,Automatic,Four-wheel drive,Gas
+14598742,1499951229,Dodge,Ram 1500,2018,$48500,Used,32000,Automatic,Four-wheel drive,Gas
+14598743,1499951240,Volkswagen,Jetta,1999,$1500,Used,210720,Manual,Front-wheel drive (FWD),Diesel
+14598744,1499951280,Dodge,Caliber,2008,$8000,Used,90000,Manual,N/A,N/A
+14598745,1499951292,Chevrolet,Silverado 2500,2017,$37000,Used,140000,Automatic,Four-wheel drive,Gas
+14598746,1499951300,BMW,3 Series,2008,$19700,Used,36000,N/A,Rear-wheel drive (RWD),Gas
+14598748,1499951350,Nissan,Rogue,2008,$3999,Used,235000,Automatic,All-wheel drive (AWD),Gas
+14598750,1499951470,Volvo,S60,2006,$3500,Used,195700,Automatic,All-wheel drive (AWD),Gas
+14598845,1499953650,Chevrolet,Silverado 2500,2007,$28900,Used,178000,Automatic,Four-wheel drive,Diesel
+14598846,1499953669,Toyota,Corolla,2010,$5700,Used,195000,Automatic,Front-wheel drive (FWD),Gas
+14598847,1499953702,Mazda,CX-7,2007,$4500,Used,310,Automatic,Front-wheel drive (FWD),N/A
+14598850,1499953771,Cadillac,CTS,2011,$17500,Used,79500,Automatic,All-wheel drive (AWD),Gas
+14598855,22342046,Ford,F 150,2011,N/A,Used,188210,Automatic,Other,Gas
+14598857,22332536,Lexus,SC,2003,N/A,Used,177460,Automatic,Other,Gas
+14598858,1499953866,Dodge,Ram 1500,2014,$16900,Used,100000,Automatic,Four-wheel drive,Gas
+14598859,1499953894,Jeep,Cherokee,2017,$18900,Used,13550,Automatic,Four-wheel drive,Gas
+14598953,1499955689,Chrysler,Pacifica,2004,$750,Used,375000,Automatic,Front-wheel drive (FWD),N/A
+14598957,1499955751,Ford,F 650,2003,$80000,Used,80000,Manual,N/A,Diesel
+14598958,1499955790,Cadillac,Eldorado,1976,$4250,Used,32237,Automatic,Front-wheel drive (FWD),Gas
+14598959,1499955805,Ford,F 150,2010,$6500,Used,194000,Automatic,Four-wheel drive,N/A
+14598961,1499955845,Ford,Ranger,2011,$9999,Used,59600,Automatic,Rear-wheel drive (RWD),Gas
+14598963,1499955875,Honda,Civic,2002,$2500,Used,186000,Manual,Front-wheel drive (FWD),Gas
+14598964,1ad906e0-3d16-4ecd-b8e7-e6e7a4f56302,Toyota,Celica,2004,$4300,Used,22600,Manual,Front-wheel drive (FWD),Gas
+14598966,1499955967,Mitsubishi,Eclipse,2008,$5600,Used,228500,Automatic,Front-wheel drive (FWD),N/A
+14599062,1499957232,BMW,5 Series,2008,$11900,Used,158000,Automatic,Rear-wheel drive (RWD),Gas
+14599065,1499957269,Hyundai,Santa Fe,2018,$15888,Used,165000,Automatic,All-wheel drive (AWD),Gas
+14599066,1499957307,Hyundai,Accent,2005,$4000,Used,79000,Automatic,Front-wheel drive (FWD),N/A
+14599068,1499957351,Audi,A7,2014,$31990,Used,81000,Automatic,All-wheel drive (AWD),Diesel
+14599069,1499957355,Mitsubishi,Outlander,2011,$6500,Used,151800,Automatic,All-wheel drive (AWD),Gas
+14599071,1499957389,Honda,Other,2020,$160,Used,5000,Automatic,Front-wheel drive (FWD),Gas
+14599073,1499957450,Dodge,Grand Caravan,2009,$4299,Used,202803,Automatic,Front-wheel drive (FWD),Gas
+14599075,1499957496,Chevrolet,Silverado 1500,2009,$6000,Used,237740,N/A,N/A,N/A
+14599170,1499959613,GMC,Sierra,2017,$32400,Used,43400,N/A,N/A,N/A
+14599171,22355877,Dodge,Journey,2016,$13999,Used,104738,Automatic,Front-wheel drive (FWD),Gas
+14599172,1499959658,Acura,TL,2010,$10995,Used,128000,Automatic,All-wheel drive (AWD),Gas
+14599177,1499959680,BMW,X3,2012,$15900,Used,117500,Automatic,All-wheel drive (AWD),Gas
+14599178,1499959699,GMC,C\\u002FK 3500,2013,$13000,Used,200000,Automatic,Four-wheel drive,Diesel
+14599180,1499959764,Hyundai,Sonata,2003,$1600,Used,146300,Automatic,N/A,N/A
+14599181,1499959820,Dodge,Journey,2010,$6300,Used,79000,Automatic,Front-wheel drive (FWD),Gas
+14599183,1499959842,Volkswagen,Jetta,2014,$6999,Used,120500,Manual,Front-wheel drive (FWD),Gas
+14599278,1499961581,Dodge,Other,1978,$5500,Used,220000,Automatic,Rear-wheel drive (RWD),Gas
+14599280,1499961639,Buick,Skylark,1970,N/A,Used,76000,N/A,N/A,N/A
+14599290,1499961932,Chevrolet,Trax,2014,$9995,Used,68250,Automatic,Front-wheel drive (FWD),Gas
+14599291,1499961962,Toyota,Corolla,2009,$4750,Used,225000,Manual,Front-wheel drive (FWD),Gas
+14599389,1499963860,BMW,3 Series,2001,$4200,Used,332000,Automatic,Rear-wheel drive (RWD),Gas
+14599392,1499963897,Mazda,3,2014,$6500,Used,171914,Automatic,Front-wheel drive (FWD),Gas
+14599393,1499963950,Ford,Fusion,2009,$2295,Used,232815,Automatic,Front-wheel drive (FWD),Gas
+14599395,1499964009,GMC,Sierra 1500,2002,$1750,Used,225,Automatic,Rear-wheel drive (RWD),N/A
+14599397,1499964036,Cadillac,Deville,1990,$2500,Used,300000,Automatic,Front-wheel drive (FWD),Gas
+14599401,1499964093,Ford,Explorer,2016,N/A,Used,201000,Automatic,N/A,Gas
+14599402,1499964102,MG,MGB,1973,$6900,Used,28022,Manual,Rear-wheel drive (RWD),Gas
+14599403,1499964106,GMC,Sierra 1500,2010,$12500,Used,202000,Automatic,Four-wheel drive,Gas
+14599499,1499966193,Land Rover,Range Rover,2006,$1500,Used,275000,N/A,All-wheel drive (AWD),N/A
+14599502,1499966272,Jeep,Grand Cherokee,1998,$7500,Used,186000,Automatic,All-wheel drive (AWD),Gas
+14599505,1499966333,Hyundai,Santa Fe,2010,$4000,Used,239000,Automatic,All-wheel drive (AWD),Gas
+14599510,1499966460,Dodge,Avenger,2011,$4000,Used,133000,N/A,N/A,N/A
+14599511,1499966467,Other,Other,2003,$2000,Used,48000,Manual,Front-wheel drive (FWD),Other
+14599606,1499968309,Acura,MDX,2005,$1549,Used,420000,Automatic,Four-wheel drive,Gas
+14599607,1499968308,Volkswagen,GLI,2014,$14000,Used,96000,Manual,Front-wheel drive (FWD),Gas
+14599608,1499968328,Nissan,Sentra,2013,$6300,Used,150000,Automatic,Front-wheel drive (FWD),Gas
+14599609,1499968333,Nissan,Sentra,2006,$2500,Used,180000,Automatic,N/A,N/A
+14599611,1499968363,Mazda,3 Sport,2008,$250,Used,1,N/A,N/A,N/A
+14599612,1499968369,MINI,Cooper,2015,$11900,Used,98988,Manual,Front-wheel drive (FWD),Gas
+14599616,1499968489,Hyundai,Elantra,2017,$15000,Used,66290,Automatic,Front-wheel drive (FWD),Gas
+14599619,1499968525,Ford,Transit Connect,2011,$8500,Used,214973,Automatic,N/A,Gas
+14599620,1499968544,Ford,Explorer Sport,2001,$2000,Used,199000,N/A,N/A,N/A
+14599720,1499970476,Pontiac,G3 Wave,2008,$2500,Used,236000,Automatic,Front-wheel drive (FWD),N/A
+14599724,1499970503,Buick,La Crosse,2010,$10000,Used,119000,Automatic,N/A,Gas
+14599727,1499970543,Mercedes-Benz,CL,2002,$15000,Used,82000,Automatic,N/A,N/A
+14599728,1499970551,Subaru,Forester,2000,$900,Used,180652,Automatic,All-wheel drive (AWD),Gas
+14599729,1499970562,Chevrolet,Tracker,2001,$4900,Used,237000,Automatic,Four-wheel drive,Gas
+14599829,1499972536,Chevrolet,Other,2003,$4500,Used,195000,Automatic,Rear-wheel drive (RWD),Gas
+14599832,1499972582,Chevrolet,Corvette,1994,$15000,Used,130000,Automatic,Rear-wheel drive (RWD),Gas
+14599834,1499972629,Plymouth,Road Runner,1969,$39900,Used,150,Automatic,Rear-wheel drive (RWD),Gas
+14599840,1499972654,Chevrolet,Express,2001,$1500,Used,480000,Automatic,Rear-wheel drive (RWD),Gas
+14599941,1499974205,GMC,Sierra 1500,2012,$16000,Used,194000,Automatic,All-wheel drive (AWD),Gas
+14599945,1499974231,Ford,Fusion,2006,$1900,Used,186000,Automatic,Front-wheel drive (FWD),N/A
+14599946,1499974237,Nissan,Sentra,2014,$8400,Used,80000,N/A,N/A,N/A
+14599951,1499974364,Dodge,Stratus,1998,$4000,Used,61735,Automatic,Front-wheel drive (FWD),Gas
+14600040,1499976104,Toyota,Yaris,2015,$9499,Used,89060,Manual,Front-wheel drive (FWD),Gas
+14600041,1499976107,Buick,Envision,2017,$31000,Used,39000,N/A,N/A,N/A
+14600043,1499976111,Honda,Pilot,2010,$7900,Used,179000,Automatic,Four-wheel drive,Gas
+14600045,1499976176,Kia,Optima,2013,$9500,Used,180000,Automatic,Front-wheel drive (FWD),Gas
+14600047,1499976300,Mitsubishi,Outlander,2010,$6500,Used,164000,Automatic,Four-wheel drive,Gas
+14600049,1499976360,Dodge,Ram 2500,2006,$43500,Used,86786,Automatic,Four-wheel drive,Diesel
+14600050,1499976384,Mercedes-Benz,C-Class,2017,$47000,Used,40000,Automatic,All-wheel drive (AWD),Gas
+14600052,1499976402,Acura,ILX,2017,$20500,Used,35000,Automatic,Front-wheel drive (FWD),Gas
+14600153,1499978162,Honda,Odyssey,2009,$7800,Used,295000,Automatic,Front-wheel drive (FWD),Gas
+14600155,1499978188,Chevrolet,Corvette,2019,$88000,Used,2059,Automatic,Rear-wheel drive (RWD),Gas
+14600156,1499978202,Buick,Verano,2013,$14500,Used,54000,Automatic,Front-wheel drive (FWD),Gas
+14600161,1499978261,Acura,CL,1998,N/A,Used,166000,Automatic,N/A,N/A
+14600250,1499979889,Acura,MDX,2008,$9000,Used,190000,Automatic,All-wheel drive (AWD),Gas
+14600257,1499979954,Chevrolet,Tahoe,2003,$2200,Used,297000,Automatic,Four-wheel drive,Gas
+14600260,1499979986,Dodge,Dart,2014,$8500,Used,145000,Automatic,Front-wheel drive (FWD),Gas
+14600262,1499980019,Dodge,Ram 1500,2017,$35900,Used,11240,Automatic,All-wheel drive (AWD),Gas
+14600343,1499981184,Jeep,Wrangler,2011,$16000,Used,179473,Automatic,All-wheel drive (AWD),Gas
+14600344,1499981201,GMC,Savana,2002,$1500,Used,292232,Automatic,N/A,Gas
+14600345,1499981225,GMC,Jimmy,2003,N/A,Used,232000,Automatic,Four-wheel drive,Gas
+14600346,1499981233,Toyota,Corolla,2013,$9900,Used,72000,Automatic,Front-wheel drive (FWD),Gas
+14600349,1499981274,Acura,EL,1998,$1200,Used,255,N/A,N/A,N/A
+14600350,1499981299,Pontiac,Other,2007,$1800,Used,211270,Automatic,Front-wheel drive (FWD),Gas
+14600447,1499982442,Mitsubishi,Other,2012,$12000,Used,212318,Automatic,Rear-wheel drive (RWD),Diesel
+14600448,1499982443,BMW,5 Series,2006,N/A,Used,1,Automatic,N/A,N/A
+14600449,1499982454,Ford,Focus,2009,$1500,Used,220000,Automatic,Front-wheel drive (FWD),Gas
+14600457,1499982513,Land Rover,Range Rover Sport,2006,$11900,Used,132000,Automatic,All-wheel drive (AWD),Gas
+14600459,1499982534,Ford,Excursion,2005,$15000,Used,231000,Automatic,Rear-wheel drive (RWD),Gas
+14600460,1499982565,Dodge,Charger,2008,$5500,Used,291000,Automatic,All-wheel drive (AWD),N/A
+14600561,1499984125,Audi,A8,2004,$5900,Used,265000,Automatic,All-wheel drive (AWD),Gas
+14600562,1499984128,Jeep,Cherokee,1998,$5000,Used,123,Automatic,Four-wheel drive,Gas
+14600568,1499984197,Ford,F 150,1997,$2500,Used,230000,Automatic,N/A,Gas
+14600678,1499985472,Chevrolet,Nova,1966,$3900,Used,3900,N/A,N/A,N/A
+14600680,1499985508,Audi,quattro,2010,$11750,Used,210000,Automatic,N/A,N/A
+14600681,1499985527,Dodge,Grand Caravan,2002,N/A,Used,106000,N/A,N/A,N/A
+14600682,1499985526,Toyota,Camry,2009,$6500,Used,132000,Automatic,Front-wheel drive (FWD),Gas
+14600780,22356697,Kia,Rio,2018,$12495,Used,84000,Automatic,Front-wheel drive (FWD),Gas
+14600781,22356615,Chevrolet,Spark,2020,$17098,New,0,Automatic,Front-wheel drive (FWD),Gas
+14600782,22356490,Subaru,Impreza,2019,$19995,Used,7229,Automatic,All-wheel drive (AWD),Gas
+14600783,22356561,Audi,S4,2018,$47995,Used,16389,Automatic,All-wheel drive (AWD),Gas
+14600784,22356491,Subaru,WRX,2018,$26595,Used,34173,Automatic,All-wheel drive (AWD),Gas
+14600785,22356616,Chevrolet,Bolt,2020,$36086,New,31,Automatic,Front-wheel drive (FWD),Electric
+14600786,22356618,Chevrolet,Spark,2020,$17553,New,0,Automatic,Front-wheel drive (FWD),Gas
+14600787,22356627,Chevrolet,Spark,2020,$17393,New,0,Automatic,Front-wheel drive (FWD),Gas
+14600788,22356698,Kia,Rio,2018,$12495,Used,80000,Automatic,Front-wheel drive (FWD),Gas
+14600789,22356619,Chevrolet,Spark,2020,$17553,New,0,Automatic,Front-wheel drive (FWD),Gas
+14600790,22356608,Chevrolet,Spark,2020,$17393,New,0,Automatic,Front-wheel drive (FWD),Gas
+14600791,22356725,Cadillac,XT5,2020,$50998,New,10,Automatic,All-wheel drive (AWD),Gas
+14600792,22067616,Subaru,Impreza,2020,$29142,New,10,Automatic,All-wheel drive (AWD),Gas
+14600793,22356623,Chevrolet,Spark,2020,$17098,New,0,Automatic,Front-wheel drive (FWD),Gas
+14600794,22356629,Chevrolet,Spark,2020,$17098,New,0,Automatic,Front-wheel drive (FWD),Gas
+14600887,22356053,Jeep,Grand Cherokee,2020,$52813,New,0,Automatic,Four-wheel drive,Gas
+14600888,22356446,Volkswagen,Passat,2016,N/A,Used,132811,Automatic,Front-wheel drive (FWD),Gas
+14600889,22356450,Volkswagen,Jetta,2016,N/A,Used,50608,Automatic,Front-wheel drive (FWD),Gas
+14600890,22356451,BMW,3 Series,2015,N/A,Used,61798,Automatic,All-wheel drive (AWD),Gas
+14600892,22356453,Volkswagen,Passat,2016,N/A,Used,101769,Automatic,Front-wheel drive (FWD),Gas
+14600893,22356456,Volkswagen,Jetta,2016,N/A,Used,99998,Manual,Front-wheel drive (FWD),Gas
+14600894,22356459,Volkswagen,Jetta,2016,N/A,Used,99530,Automatic,Front-wheel drive (FWD),Gas
+14600895,22356443,Volkswagen,Jetta,2016,N/A,Used,27468,Automatic,Front-wheel drive (FWD),Gas
+14600896,22356458,Volkswagen,Jetta,2016,N/A,Used,64470,Manual,Front-wheel drive (FWD),Gas
+14600897,22356395,Subaru,Outback,2020,$41995,Used,6000,Automatic,Other,Gas
+14600898,22356455,BMW,3 Series,2015,N/A,Used,105488,Automatic,All-wheel drive (AWD),Gas
+14600899,22356449,BMW,3 Series,2015,N/A,Used,129248,Automatic,All-wheel drive (AWD),Gas
+14600901,21896499,Hyundai,Palisade,2020,$51992,Used,18991,Automatic,Other,Gas
+14600996,1499987106,Volkswagen,Jetta,2004,N/A,Used,340000,Automatic,Front-wheel drive (FWD),Diesel
+14600998,1499987128,Saab,9-3,2004,$1000,Used,291900,Manual,Front-wheel drive (FWD),Gas
+14601001,1499987151,Honda,Odyssey,2011,$12500,Used,171538,Automatic,Front-wheel drive (FWD),N/A
+14601003,1499987146,Chevrolet,Corvette,2003,$26900,Used,65000,Manual,N/A,N/A
+14601007,1499987179,Geo,Tracker,1993,$1500,Used,187,Manual,Four-wheel drive,Hybrid
+14601102,22356963,Hyundai,Sonata,2009,$5500,Used,135705,Automatic,Front-wheel drive (FWD),Gas
+14601104,22356937,Hyundai,Sonata,2012,$6390,Used,151000,Automatic,Other,Other
+14601106,22356942,Subaru,Outback,2013,$4995,Used,293000,Automatic,Other,Other
+14601107,1499987604,Ford,Explorer,2013,$17990,Used,195728,Automatic,All-wheel drive (AWD),Gas
+14601114,1499987766,Dodge,Grand Caravan,2015,$11900,Used,228000,Automatic,Front-wheel drive (FWD),Gas
+14601115,1499987785,Oldsmobile,Eighty-Eight,1981,$4500,Used,126000,Automatic,Rear-wheel drive (RWD),Gas
+14601116,22356981,Audi,TT,2002,$9995,Used,115000,Manual,Other,Other
+14601210,1499988693,Chevrolet,Silverado 2500,2012,$9999,Used,260000,Automatic,Four-wheel drive,Gas
+14601211,1499988694,Toyota,Corolla,2009,$6000,Used,159335,Manual,Front-wheel drive (FWD),N/A
+14601213,1499988713,Ford,E 350,2007,$12500,Used,84000,Automatic,Rear-wheel drive (RWD),Gas
+14601215,1499988727,Nissan,Frontier,2005,$4900,Used,270000,Manual,Rear-wheel drive (RWD),N/A
+14601216,1499988745,Chevrolet,Blazer,2003,$8500,Used,170000,Automatic,Rear-wheel drive (RWD),N/A
+14601221,1499988773,Dodge,Charger,2016,$9000,Used,196000,Automatic,Rear-wheel drive (RWD),Gas
+14601223,1499988811,Mercedes-Benz,Other,1992,$2300,Used,199000,Automatic,Other,Gas
+14601224,1499988831,Pontiac,Vibe,2004,$4200,Used,177834,Automatic,Front-wheel drive (FWD),Gas
+14601322,22357082,GMC,Yukon,2017,N/A,Used,59700,Automatic,Four-wheel drive,Gas
+14601323,22357083,Chevrolet,Blazer,2005,N/A,Used,250300,Automatic,Four-wheel drive,Gas
+14601324,22357062,Chevrolet,Silverado 3500,2015,$42500,Used,160801,Automatic,Four-wheel drive,Gas
+14601325,22357080,Chevrolet,Silverado 2500,2015,N/A,Used,150200,Automatic,Four-wheel drive,Gas
+14601326,22357070,GMC,Sierra 1500,2019,$28999,New,15,Automatic,Rear-wheel drive (RWD),Gas
+14601327,22357058,GMC,Sierra 1500,2019,$28999,New,13,Automatic,Rear-wheel drive (RWD),Gas
+14601328,22357076,Chevrolet,Silverado 1500,2020,$52288,New,300,Automatic,Four-wheel drive,Gas
+14601329,22357085,GMC,Terrain,2017,N/A,Used,52200,Automatic,All-wheel drive (AWD),Gas
+14601330,22357084,Chevrolet,Traverse,2017,N/A,Used,34500,Automatic,All-wheel drive (AWD),Gas
+14601331,22357064,GMC,Sierra 1500,2019,$28784,New,10,Automatic,Rear-wheel drive (RWD),Gas
+14601332,22357067,Chevrolet,Corvette,2005,$28888,Used,45000,Automatic,Rear-wheel drive (RWD),Gas
+14601333,1499989808,Honda,Accord,2017,$21500,Used,89738,Automatic,Front-wheel drive (FWD),Gas
+14601334,22357068,GMC,Canyon,2017,N/A,Used,37525,Automatic,Four-wheel drive,Gas
+14601335,22357079,GMC,Sierra 1500,2020,$47885,New,333,Automatic,Four-wheel drive,Gas
+14601433,1499990930,Volvo,C30,2008,$3200,Used,245000,Manual,N/A,N/A
+14601439,1499991009,Ford,F 150,2017,$42000,Used,60000,Automatic,Four-wheel drive,Gas
+14601441,1499991012,Suzuki,Other,1991,$4500,Used,96000,Manual,Four-wheel drive,Gas
+14601444,1499991078,Ford,F 150,2017,$21000,Used,35000,Automatic,Four-wheel drive,Gas
+14601445,1499991080,Ford,Mustang,1992,$15500,Used,102000,N/A,Rear-wheel drive (RWD),N/A
+14601446,1499991091,Chrysler,Sebring,2005,$2999,Used,179851,Automatic,Front-wheel drive (FWD),Gas
+14601543,1499992272,Audi,S5,2014,$24000,Used,100000,Automatic,N/A,Gas
+14601547,1499992304,Suzuki,SX4,2010,$7500,Used,129000,Automatic,All-wheel drive (AWD),Gas
+14601549,1499992340,MINI,Other,2012,$8000,Used,111788,Automatic,Front-wheel drive (FWD),Gas
+14601551,1499992360,Mitsubishi,RVR,2018,$18000,Used,37000,Automatic,All-wheel drive (AWD),N/A
+14601555,1499992375,BMW,1 Series,2012,$20750,Used,86000,Automatic,Rear-wheel drive (RWD),Gas
